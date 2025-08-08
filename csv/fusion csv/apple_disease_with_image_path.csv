@@ -1,0 +1,357 @@
+temp,humidity,predicted_disease,image_path
+20.0,85.4,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1005.jpg
+20.1,88.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1607.jpg
+20.2,93.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4991.jpg
+20.3,92.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1291.jpg
+20.4,92.1,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1205.jpg
+20.4,88.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_554.jpg
+20.5,91.3,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5012.jpg
+20.5,91.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1961.jpg
+20.6,91.4,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3471.jpg
+20.7,85.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1213.jpg
+20.7,90.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_862.jpg
+20.7,89.0,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4952.jpg
+20.8,91.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2152.jpg
+20.8,89.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\Alternaria leaf spot (150).jpg
+20.9,94.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4746.jpg
+20.9,85.9,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3112.jpg
+21.0,92.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4123.jpg
+21.0,87.0,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4505.jpg
+21.0,87.3,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5200.jpg
+21.0,87.4,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\Alternaria leaf spot (21).jpg
+21.1,95.9,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1174.jpg
+21.1,86.0,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\Alternaria leaf spot (232).jpg
+21.1,85.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3511.jpg
+21.1,86.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_949.jpg
+21.2,92.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2220.jpg
+21.2,94.0,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1157.jpg
+21.2,94.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_707.jpg
+21.2,89.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4357.jpg
+21.2,85.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4605.jpg
+21.3,92.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5050.jpg
+21.3,95.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1295.jpg
+21.3,94.3,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3767.jpg
+21.3,91.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\Alternaria leaf spot (299).jpg
+21.4,86.4,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4419.jpg
+21.4,90.1,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5213.jpg
+21.5,90.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2929.jpg
+21.5,87.9,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1565.jpg
+21.5,85.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4748.jpg
+21.5,94.1,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3393.jpg
+21.5,90.9,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3368.jpg
+21.5,87.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2279.jpg
+21.6,89.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1771.jpg
+21.6,88.1,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4618.jpg
+21.6,86.3,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\Alternaria leaf spot (395).jpg
+21.7,90.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1824.jpg
+21.7,91.9,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2116.jpg
+21.7,91.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2656.jpg
+21.7,86.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2870.jpg
+21.8,85.3,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4046.jpg
+21.8,93.9,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1009.jpg
+21.9,89.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4121.jpg
+21.9,92.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4736.jpg
+21.9,90.9,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2348.jpg
+21.9,93.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1900.jpg
+21.9,93.3,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3863.jpg
+21.9,92.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2496.jpg
+21.9,88.1,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_622.jpg
+22.0,88.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_419.jpg
+22.1,88.3,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4353.jpg
+22.1,90.0,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5333.jpg
+22.1,90.4,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4805.jpg
+22.1,87.1,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3719.jpg
+22.2,87.0,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2523.jpg
+22.2,91.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\Alternaria leaf spot (347).jpg
+22.2,88.1,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5316.jpg
+22.2,88.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5297.jpg
+22.2,86.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1616.jpg
+22.2,91.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_702.jpg
+22.2,89.4,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2177.jpg
+22.2,87.0,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5270.jpg
+22.2,90.0,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3571.jpg
+22.2,90.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5268.jpg
+22.3,91.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4230.jpg
+22.3,87.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3310.jpg
+22.3,92.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5035.jpg
+22.3,87.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3716.jpg
+22.4,90.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3796.jpg
+22.4,89.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3418.jpg
+22.4,88.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4948.jpg
+22.4,87.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2587.jpg
+22.4,88.0,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4597.jpg
+22.4,90.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4097.jpg
+22.4,89.3,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4189.jpg
+22.5,89.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5040.jpg
+22.5,86.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\Alternaria leaf spot (205).jpg
+22.5,89.1,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2133.jpg
+22.5,89.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3947.jpg
+22.5,89.3,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2740.jpg
+22.5,88.3,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3393.jpg
+22.5,88.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3920.jpg
+22.6,89.4,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4092.jpg
+22.6,91.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3419.jpg
+22.6,89.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2422.jpg
+22.6,88.1,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5386.jpg
+22.6,91.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2701.jpg
+22.6,88.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3895.jpg
+22.6,92.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\Alternaria leaf spot (327).jpg
+22.6,89.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1226.jpg
+22.6,90.1,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1630.jpg
+22.7,87.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2287.jpg
+22.7,94.4,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5343.jpg
+22.7,88.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2522.jpg
+22.7,91.3,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4562.jpg
+22.7,89.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4327.jpg
+22.7,87.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\Alternaria leaf spot (391).jpg
+22.8,86.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3807.jpg
+22.8,87.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2201.jpg
+22.8,87.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4408.jpg
+22.8,90.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2476.jpg
+22.8,90.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4175.jpg
+22.9,92.9,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\Alternaria leaf spot (73).jpg
+22.9,86.3,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2917.jpg
+22.9,87.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5365.jpg
+22.9,86.4,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4495.jpg
+22.9,87.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_833.jpg
+22.9,86.9,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1218.jpg
+22.9,85.1,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3926.jpg
+23.0,87.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4669.jpg
+23.0,92.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5343.jpg
+23.0,90.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2593.jpg
+23.0,86.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\Alternaria leaf spot (149).jpg
+23.1,90.1,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3923.jpg
+23.1,90.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3825.jpg
+23.1,87.9,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4199.jpg
+23.1,85.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_637.jpg
+23.1,87.1,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4420.jpg
+23.2,85.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4243.jpg
+23.2,89.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5137.jpg
+23.2,89.4,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4365.jpg
+23.2,88.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1419.jpg
+23.3,86.0,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1905.jpg
+23.4,92.0,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1536.jpg
+23.5,85.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4456.jpg
+23.5,87.4,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4343.jpg
+23.5,85.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1330.jpg
+23.5,85.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3826.jpg
+23.5,86.0,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3171.jpg
+23.6,88.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4716.jpg
+23.6,86.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_690.jpg
+23.7,85.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3835.jpg
+23.7,87.0,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\Alternaria leaf spot (16).jpg
+23.7,86.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4050.jpg
+23.9,85.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4338.jpg
+23.9,87.1,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3337.jpg
+24.3,90.3,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\Alternaria leaf spot (332).jpg
+24.4,96.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_826.jpg
+24.4,85.1,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5050.jpg
+25.3,88.0,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\Alternaria leaf spot (281).jpg
+25.3,93.0,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3966.jpg
+25.4,93.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4802.jpg
+25.5,96.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1990.jpg
+25.6,91.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5191.jpg
+25.7,87.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\Alternaria leaf spot (217).jpg
+25.8,93.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3713.jpg
+25.8,94.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5333.jpg
+25.8,91.0,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4679.jpg
+25.9,88.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\Alternaria leaf spot (183).jpg
+25.9,95.1,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3498.jpg
+25.9,89.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4802.jpg
+25.9,86.0,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5405.jpg
+25.9,86.4,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4016.jpg
+26.1,97.3,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3408.jpg
+26.1,89.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2313.jpg
+26.1,92.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4418.jpg
+26.1,88.4,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1087.jpg
+26.2,89.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\Alternaria leaf spot (323).jpg
+26.3,91.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2246.jpg
+26.3,87.4,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1868.jpg
+26.4,95.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4903.jpg
+26.6,85.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1749.jpg
+26.6,89.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1884.jpg
+26.8,86.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5180.jpg
+26.9,86.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4362.jpg
+27.0,89.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\Alternaria leaf spot (2).jpg
+27.1,88.4,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_750.jpg
+27.1,89.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2550.jpg
+27.2,89.9,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4330.jpg
+27.3,88.3,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3566.jpg
+27.3,92.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3132.jpg
+27.3,94.5,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3172.jpg
+27.4,89.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4422.jpg
+27.4,88.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4783.jpg
+27.5,85.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_4578.jpg
+27.5,85.6,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3506.jpg
+27.6,87.8,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3093.jpg
+27.6,94.0,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2047.jpg
+27.7,92.3,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1180.jpg
+27.7,85.4,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2391.jpg
+27.7,88.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_3238.jpg
+27.9,86.9,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_5284.jpg
+27.9,87.7,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_1325.jpg
+27.9,85.2,Alternaria leaf spot,D:\crops\dataset\Apple\Alternaria leaf spot\aug_2390.jpg
+20.0,61.1,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4652.jpg
+20.0,70.8,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1854.jpg
+20.1,74.1,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2348.jpg
+20.1,78.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (2100).jpg
+20.1,68.9,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1415.jpg
+20.1,68.7,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4720.jpg
+20.1,70.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1318.jpg
+20.2,80.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1808).jpg
+20.2,60.7,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1193.jpg
+20.2,66.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2253.jpg
+20.2,61.5,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3616.jpg
+20.2,66.3,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2048.jpg
+20.3,65.1,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3359.jpg
+20.3,61.3,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4315.jpg
+20.3,70.3,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3929.jpg
+20.3,71.4,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3756.jpg
+20.4,74.8,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1779).jpg
+20.4,75.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1209).jpg
+20.4,70.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2229.jpg
+20.4,63.3,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2253.jpg
+20.4,61.5,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3534.jpg
+20.4,66.8,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_5032.jpg
+20.5,78.6,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4738.jpg
+20.5,79.6,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4039.jpg
+20.5,66.3,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4496.jpg
+20.6,72.1,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4868.jpg
+20.6,72.3,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1599.jpg
+20.6,65.8,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1850.jpg
+20.7,67.9,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2604.jpg
+20.8,63.3,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (2028).jpg
+20.8,60.8,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1582.jpg
+20.8,79.9,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1503.jpg
+20.9,80.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2339.jpg
+20.9,70.5,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3461.jpg
+21.0,65.1,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3823.jpg
+21.1,71.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4779.jpg
+21.1,69.8,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2016.jpg
+21.2,79.8,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1489).jpg
+21.2,76.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4601.jpg
+21.3,76.6,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (2028).jpg
+21.3,72.6,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1392).jpg
+21.4,72.1,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2135.jpg
+21.4,71.1,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4140.jpg
+21.4,68.8,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1447.jpg
+21.4,66.2,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2348.jpg
+21.4,67.4,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4310.jpg
+21.5,77.4,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1379).jpg
+21.5,77.6,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4197.jpg
+21.5,79.8,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (2118).jpg
+21.5,60.7,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2436.jpg
+21.6,64.3,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4417.jpg
+21.7,73.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3172.jpg
+21.7,69.9,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1286.jpg
+21.8,77.3,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1219.jpg
+21.8,69.5,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1715).jpg
+21.8,63.4,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_5149.jpg
+21.8,62.8,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1821).jpg
+21.8,64.2,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1349.jpg
+21.8,63.3,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3096.jpg
+21.9,68.9,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3625.jpg
+21.9,75.4,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1402).jpg
+22.0,68.1,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (2289).jpg
+22.0,61.3,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4432.jpg
+22.1,67.5,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1248).jpg
+22.2,74.8,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2879.jpg
+22.2,77.7,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1391).jpg
+22.3,76.7,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3343.jpg
+22.3,76.9,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2188.jpg
+22.3,70.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4850.jpg
+22.3,67.2,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (2098).jpg
+22.4,73.5,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1481.jpg
+22.4,75.5,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2538.jpg
+22.4,65.1,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1822).jpg
+22.4,67.3,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (2198).jpg
+22.4,69.2,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1538.jpg
+22.5,79.1,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1647.jpg
+22.5,68.6,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1872).jpg
+22.5,72.8,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (2227).jpg
+22.5,69.2,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4989.jpg
+22.5,72.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1398).jpg
+22.5,63.2,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1192.jpg
+22.5,66.7,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2776.jpg
+22.6,75.8,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1458).jpg
+22.6,77.6,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1681).jpg
+22.6,69.9,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2632.jpg
+22.6,69.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4132.jpg
+22.7,78.9,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4603.jpg
+22.7,68.9,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3282.jpg
+22.7,66.5,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3680.jpg
+22.7,63.6,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2798.jpg
+22.7,70.3,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_5333.jpg
+22.8,61.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1665).jpg
+22.8,78.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3243.jpg
+22.8,60.6,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2516.jpg
+22.9,77.8,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3700.jpg
+22.9,61.6,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1773.jpg
+23.0,71.2,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1706.jpg
+23.0,68.4,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1976.jpg
+23.2,70.4,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4548.jpg
+23.2,78.8,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1906).jpg
+23.3,70.5,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2694.jpg
+23.3,64.3,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (2016).jpg
+23.4,66.3,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1504.jpg
+23.4,70.2,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1884).jpg
+23.5,73.4,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1191.jpg
+23.5,65.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (2195).jpg
+23.5,61.1,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3509.jpg
+23.6,69.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1480).jpg
+23.6,77.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (2261).jpg
+23.6,80.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2214.jpg
+23.6,77.5,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_5285.jpg
+23.6,61.1,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3994.jpg
+23.7,76.9,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4969.jpg
+23.7,71.6,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_5085.jpg
+23.7,69.8,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4822.jpg
+23.8,74.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2475.jpg
+23.8,78.6,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1466.jpg
+23.8,79.2,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3416.jpg
+23.9,69.8,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1887).jpg
+23.9,66.9,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3533.jpg
+24.0,77.4,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3477.jpg
+24.1,65.7,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_5408.jpg
+24.1,65.2,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1963.jpg
+24.1,71.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1945).jpg
+24.2,78.2,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4574.jpg
+24.2,70.2,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2060.jpg
+24.3,77.2,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3330.jpg
+24.3,63.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4279.jpg
+24.3,69.9,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_1745.jpg
+24.4,65.1,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4317.jpg
+24.4,71.6,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4646.jpg
+24.4,70.1,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1709).jpg
+24.5,60.6,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4539.jpg
+24.5,68.1,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2738.jpg
+24.5,73.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (2053).jpg
+24.6,65.0,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1533).jpg
+24.6,71.6,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_4879.jpg
+24.7,62.5,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3073.jpg
+24.7,69.9,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2573.jpg
+24.8,70.9,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_5286.jpg
+24.9,69.6,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_3203.jpg
+24.9,64.9,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2714.jpg
+25.0,64.2,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\aug_2993.jpg
+25.0,67.6,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (1526).jpg
+25.0,69.6,Powdery mildew,D:\crops\dataset\Apple\Powdery mildew\Powdery mildew (2148).jpg
+12.3,93.8,Scab,D:\crops\dataset\Apple\Scab\Scab (5307).jpg
+12.3,91.1,Scab,D:\crops\dataset\Apple\Scab\Scab (5302).jpg
+12.7,90.9,Scab,D:\crops\dataset\Apple\Scab\Scab (2588).jpg
+12.9,92.8,Scab,D:\crops\dataset\Apple\Scab\Scab (2590).jpg
+13.2,90.5,Scab,D:\crops\dataset\Apple\Scab\Scab (4485).jpg
+13.5,91.5,Scab,D:\crops\dataset\Apple\Scab\Scab (3607).jpg
+14.0,92.3,Scab,D:\crops\dataset\Apple\Scab\Scab (379).jpg
+14.3,94.5,Scab,D:\crops\dataset\Apple\Scab\Scab (798).jpg
+14.4,95.3,Scab,D:\crops\dataset\Apple\Scab\Scab (189).jpg
+18.1,95.3,Scab,D:\crops\dataset\Apple\Scab\Scab (770).jpg
+18.9,95.4,Scab,D:\crops\dataset\Apple\Scab\Scab (1812).jpg
+19.2,92.6,Scab,D:\crops\dataset\Apple\Scab\Scab (3063).jpg
+19.3,91.0,Scab,D:\crops\dataset\Apple\Scab\Scab (574).jpg
+19.7,91.0,Scab,D:\crops\dataset\Apple\Scab\Scab (2445).jpg
+19.8,90.6,Scab,D:\crops\dataset\Apple\Scab\Scab (2133).jpg
+19.8,92.0,Scab,D:\crops\dataset\Apple\Scab\Scab (5242).jpg
+19.8,92.3,Scab,D:\crops\dataset\Apple\Scab\Scab (4902).jpg
+19.8,93.1,Scab,D:\crops\dataset\Apple\Scab\Scab (90).jpg
+19.9,90.3,Scab,D:\crops\dataset\Apple\Scab\Scab (3158).jpg

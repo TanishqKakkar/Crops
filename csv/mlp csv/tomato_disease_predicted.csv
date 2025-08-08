@@ -1,0 +1,447 @@
+temp,humidity,predicted_disease
+25.9,90.7,Bacterial Spot
+26.3,90.8,Bacterial Spot
+26.9,90.1,Bacterial Spot
+26.4,91.4,Bacterial Spot
+25.9,91.4,Bacterial Spot
+26.3,90.1,Bacterial Spot
+25.5,94.4,Bacterial Spot
+26.1,91.4,Bacterial Spot
+25.7,91,Bacterial Spot
+25.6,92.5,Bacterial Spot
+25.9,93.6,Bacterial Spot
+25.3,96.4,Bacterial Spot
+25.4,92.7,Bacterial Spot
+26.3,90.3,Bacterial Spot
+25.1,95.6,Bacterial Spot
+25.5,91.7,Bacterial Spot
+25,93.5,Bacterial Spot
+25.9,90.2,Bacterial Spot
+25.3,91.3,Bacterial Spot
+25.3,90.9,Bacterial Spot
+25.6,91,Bacterial Spot
+25.9,90.6,Bacterial Spot
+25.4,91,Bacterial Spot
+25.7,90.1,Bacterial Spot
+26,90.9,Bacterial Spot
+25.8,92.9,Bacterial Spot
+25.5,92.6,Bacterial Spot
+25.5,92.5,Bacterial Spot
+24.9,83,Early Blight
+24.9,79.9,Early Blight
+24.9,79,Early Blight
+24.5,81.4,Early Blight
+24.8,77.7,Early Blight
+24.9,78.5,Early Blight
+24.6,79.5,Early Blight
+24.1,83.1,Early Blight
+24,82,Early Blight
+24.3,80.3,Early Blight
+24.8,80.7,Early Blight
+24.3,83.6,Early Blight
+24.4,82.5,Early Blight
+24.9,81.6,Early Blight
+24.1,82.4,Early Blight
+24,84.7,Early Blight
+24.9,77.9,Early Blight
+24,83.3,Early Blight
+24.9,78.9,Early Blight
+24.1,84.8,Early Blight
+24.3,80.5,Early Blight
+24.1,79.7,Early Blight
+24.1,81.7,Early Blight
+24.8,79.5,Early Blight
+24.5,83.9,Early Blight
+24.2,84.1,Early Blight
+24.3,83.5,Early Blight
+24.2,78.1,Early Blight
+24.3,81.6,Early Blight
+24.8,82.5,Early Blight
+24.6,83.1,Early Blight
+24.7,82.2,Early Blight
+24.7,73.9,Early Blight
+24.9,79.5,Early Blight
+24.3,83.9,Early Blight
+24.8,79.4,Early Blight
+24.1,80.7,Early Blight
+24,79.7,Early Blight
+24.3,79.9,Early Blight
+24.9,78.9,Early Blight
+24.3,80.5,Early Blight
+24.7,77.7,Early Blight
+24,82.4,Early Blight
+24.2,77.1,Early Blight
+24.3,71.4,Early Blight
+24.6,73.9,Early Blight
+24.7,72,Early Blight
+24.4,77.7,Early Blight
+24.2,81.8,Early Blight
+24.3,83.4,Early Blight
+24,81.2,Early Blight
+24.7,74.4,Early Blight
+24.7,76.9,Early Blight
+24.2,77,Early Blight
+24.2,79.7,Early Blight
+24.9,79.5,Early Blight
+24.6,80.8,Early Blight
+24.5,72.8,Early Blight
+24.4,75.3,Early Blight
+24,74.9,Early Blight
+24.5,73.2,Early Blight
+24.6,74.4,Early Blight
+24.7,72.1,Early Blight
+24.8,77.7,Early Blight
+24.7,78.7,Early Blight
+24.1,82.8,Early Blight
+24.1,78.8,Early Blight
+24,77.1,Early Blight
+24,78.3,Early Blight
+24,77.8,Early Blight
+24.1,82.8,Early Blight
+24.5,81.8,Early Blight
+24.2,83.2,Early Blight
+24.5,78.3,Early Blight
+24,80.8,Early Blight
+24.2,79.6,Early Blight
+24.5,79.9,Early Blight
+24.4,81.4,Early Blight
+24.4,80,Early Blight
+24.4,77.6,Early Blight
+24.3,78.4,Early Blight
+24.4,77.1,Early Blight
+24,82.6,Early Blight
+24,84.5,Early Blight
+24,82.2,Early Blight
+24.5,80.5,Early Blight
+24.3,77.9,Early Blight
+24.8,76.4,Early Blight
+24.2,81.1,Early Blight
+24.3,77,Early Blight
+24.6,80.8,Early Blight
+24.2,78.6,Early Blight
+24.5,83,Early Blight
+24.7,80.5,Early Blight
+24.2,83.2,Early Blight
+24.4,80.2,Early Blight
+24.8,77.8,Early Blight
+24.7,79.6,Early Blight
+24.9,79.3,Early Blight
+24.2,82.5,Early Blight
+24.2,78.8,Early Blight
+24.1,77.3,Early Blight
+24.5,76,Early Blight
+24.6,78.1,Early Blight
+24.9,77,Early Blight
+24.3,79.2,Early Blight
+24.8,78.3,Early Blight
+24.7,73.7,Early Blight
+24.9,74,Early Blight
+24.8,73.8,Early Blight
+24.7,79.7,Early Blight
+24.6,79.7,Early Blight
+24,83,Early Blight
+24,84.2,Early Blight
+24.2,76.6,Early Blight
+24,76.5,Early Blight
+24.2,79.6,Early Blight
+24.3,80.9,Early Blight
+24.8,80.2,Early Blight
+24,83.1,Early Blight
+24,77.4,Early Blight
+24,84.6,Early Blight
+24.8,80.2,Early Blight
+24.8,74.2,Early Blight
+24.8,74.5,Early Blight
+24.1,78,Early Blight
+24,76.9,Early Blight
+24.2,80.7,Early Blight
+24.1,83.2,Early Blight
+24.2,78.5,Early Blight
+24.2,79.4,Early Blight
+24.3,77.2,Early Blight
+24.7,81.7,Early Blight
+19.7,98,Late Blight
+19.6,93.6,Late Blight
+18.8,95.1,Late Blight
+19.9,97.8,Late Blight
+18.4,95,Late Blight
+19.7,96.8,Late Blight
+18.5,91.1,Late Blight
+18.7,92.4,Late Blight
+17.9,96.2,Late Blight
+19,92,Late Blight
+17.8,90.2,Late Blight
+17.6,95.5,Late Blight
+16.9,97.1,Late Blight
+23.3,88.8,Septoria Leaf Spot
+23.4,86.4,Septoria Leaf Spot
+23.8,85.7,Septoria Leaf Spot
+23.6,86.7,Septoria Leaf Spot
+23,90.6,Septoria Leaf Spot
+22.5,93.6,Septoria Leaf Spot
+22.9,89.8,Septoria Leaf Spot
+23.8,85.9,Septoria Leaf Spot
+24.6,85.6,Septoria Leaf Spot
+23.8,89.4,Septoria Leaf Spot
+23.6,91.3,Septoria Leaf Spot
+24,85.8,Septoria Leaf Spot
+23.6,87.3,Septoria Leaf Spot
+23.7,85.3,Septoria Leaf Spot
+23.3,86.6,Septoria Leaf Spot
+22.6,88.1,Septoria Leaf Spot
+22.6,87.7,Septoria Leaf Spot
+23.7,86.1,Septoria Leaf Spot
+22.6,89.6,Septoria Leaf Spot
+22.5,86.8,Septoria Leaf Spot
+23.2,88.3,Septoria Leaf Spot
+22.2,87.5,Septoria Leaf Spot
+22.5,91.3,Septoria Leaf Spot
+23,90.9,Septoria Leaf Spot
+24,86.6,Septoria Leaf Spot
+23.9,87.2,Septoria Leaf Spot
+22.7,87.2,Septoria Leaf Spot
+22.2,92.3,Septoria Leaf Spot
+22,91.7,Septoria Leaf Spot
+22.5,88.3,Septoria Leaf Spot
+22.7,88.3,Septoria Leaf Spot
+21.1,96.6,Septoria Leaf Spot
+22.4,85.9,Septoria Leaf Spot
+23.1,85.3,Septoria Leaf Spot
+22.9,89.6,Septoria Leaf Spot
+22.7,86.7,Septoria Leaf Spot
+24.3,86.7,Septoria Leaf Spot
+22.2,93.2,Septoria Leaf Spot
+22.3,91.1,Septoria Leaf Spot
+21.8,92,Septoria Leaf Spot
+23.6,88,Septoria Leaf Spot
+23.3,90.7,Septoria Leaf Spot
+22.9,91.7,Septoria Leaf Spot
+22.8,92.6,Septoria Leaf Spot
+22.2,91.8,Septoria Leaf Spot
+22.3,92.6,Septoria Leaf Spot
+21.7,92.4,Septoria Leaf Spot
+21.9,94.5,Septoria Leaf Spot
+21,86.5,Septoria Leaf Spot
+21.6,86.8,Septoria Leaf Spot
+20.7,93.3,Septoria Leaf Spot
+21.2,90.5,Septoria Leaf Spot
+21,90.7,Septoria Leaf Spot
+21.8,87.1,Septoria Leaf Spot
+21.4,92.6,Septoria Leaf Spot
+21.8,87.1,Septoria Leaf Spot
+21.2,85.2,Septoria Leaf Spot
+21.4,86.2,Septoria Leaf Spot
+21.1,86.5,Septoria Leaf Spot
+21.6,85.2,Septoria Leaf Spot
+21.3,95.3,Septoria Leaf Spot
+21.6,92.5,Septoria Leaf Spot
+22.5,87.8,Septoria Leaf Spot
+21.8,87.6,Septoria Leaf Spot
+20.9,85.2,Septoria Leaf Spot
+23.8,88.2,Septoria Leaf Spot
+23.9,88.2,Septoria Leaf Spot
+23.9,85.8,Septoria Leaf Spot
+23.2,85.7,Septoria Leaf Spot
+22.8,85.9,Septoria Leaf Spot
+22.7,86.9,Septoria Leaf Spot
+22.3,92.5,Septoria Leaf Spot
+22.1,92.8,Septoria Leaf Spot
+23.1,87.8,Septoria Leaf Spot
+22.1,94.1,Septoria Leaf Spot
+23.3,87.1,Septoria Leaf Spot
+22.2,92.5,Septoria Leaf Spot
+22.1,91,Septoria Leaf Spot
+22.2,91.8,Septoria Leaf Spot
+23.1,89.1,Septoria Leaf Spot
+23.5,86.3,Septoria Leaf Spot
+23.4,86.3,Septoria Leaf Spot
+23,86.4,Septoria Leaf Spot
+22.9,87,Septoria Leaf Spot
+23.4,89.1,Septoria Leaf Spot
+23.1,88.4,Septoria Leaf Spot
+22.1,88.9,Septoria Leaf Spot
+22.8,88.6,Septoria Leaf Spot
+22.6,89.6,Septoria Leaf Spot
+22.8,89,Septoria Leaf Spot
+22.6,87.7,Septoria Leaf Spot
+22.4,86.6,Septoria Leaf Spot
+23.4,89.9,Septoria Leaf Spot
+23.5,85.4,Septoria Leaf Spot
+23.3,85.8,Septoria Leaf Spot
+23.8,85.3,Septoria Leaf Spot
+24.1,85.5,Septoria Leaf Spot
+22.7,90.6,Septoria Leaf Spot
+23.4,89.3,Septoria Leaf Spot
+22.4,92.8,Septoria Leaf Spot
+23.1,88.9,Septoria Leaf Spot
+23.2,89.7,Septoria Leaf Spot
+22.4,91.1,Septoria Leaf Spot
+22.9,87.3,Septoria Leaf Spot
+23.8,87.7,Septoria Leaf Spot
+24.4,85.7,Septoria Leaf Spot
+22.9,90.2,Septoria Leaf Spot
+23.2,87.9,Septoria Leaf Spot
+22.5,87.5,Septoria Leaf Spot
+23,86,Septoria Leaf Spot
+22.8,88.3,Septoria Leaf Spot
+22.2,87.8,Septoria Leaf Spot
+22.2,87,Septoria Leaf Spot
+21.7,91.6,Septoria Leaf Spot
+21.6,87.6,Septoria Leaf Spot
+20.9,93.5,Septoria Leaf Spot
+21.8,91.6,Septoria Leaf Spot
+22.6,91.4,Septoria Leaf Spot
+22.6,89.6,Septoria Leaf Spot
+22.7,90.2,Septoria Leaf Spot
+22.5,87.5,Septoria Leaf Spot
+21,96.8,Septoria Leaf Spot
+21,97,Septoria Leaf Spot
+21.9,92.6,Septoria Leaf Spot
+22.7,86.3,Septoria Leaf Spot
+23.1,85.3,Septoria Leaf Spot
+21,88.1,Septoria Leaf Spot
+20.8,93.3,Septoria Leaf Spot
+20.8,93.2,Septoria Leaf Spot
+22.5,85.2,Septoria Leaf Spot
+21.5,89.2,Septoria Leaf Spot
+22,86.9,Septoria Leaf Spot
+22.7,85.4,Septoria Leaf Spot
+22.4,85.3,Septoria Leaf Spot
+21.5,86.6,Septoria Leaf Spot
+20.8,89,Septoria Leaf Spot
+21,86.4,Septoria Leaf Spot
+20.9,86.2,Septoria Leaf Spot
+20.4,85.9,Septoria Leaf Spot
+22.8,90.7,Septoria Leaf Spot
+22.8,85.4,Septoria Leaf Spot
+21.5,93.3,Septoria Leaf Spot
+23.1,88.4,Septoria Leaf Spot
+24.3,85.2,Septoria Leaf Spot
+23.9,89.4,Septoria Leaf Spot
+24,88.5,Septoria Leaf Spot
+21.2,94.5,Septoria Leaf Spot
+22.1,85.2,Septoria Leaf Spot
+23.7,86.9,Septoria Leaf Spot
+23.6,85.5,Septoria Leaf Spot
+22.7,86.2,Septoria Leaf Spot
+22.2,88.4,Septoria Leaf Spot
+21.9,93.7,Septoria Leaf Spot
+21.8,88.5,Septoria Leaf Spot
+22,90.4,Septoria Leaf Spot
+22.6,86.5,Septoria Leaf Spot
+21.9,91,Septoria Leaf Spot
+22,87.3,Septoria Leaf Spot
+21.8,88,Septoria Leaf Spot
+22.3,86.2,Septoria Leaf Spot
+22.2,89.7,Septoria Leaf Spot
+23.3,85.9,Septoria Leaf Spot
+22.6,89.9,Septoria Leaf Spot
+22.9,85.3,Septoria Leaf Spot
+23.6,90.4,Septoria Leaf Spot
+24.2,85.6,Septoria Leaf Spot
+22.8,88.8,Septoria Leaf Spot
+22.1,92,Septoria Leaf Spot
+22.1,94.4,Septoria Leaf Spot
+21.5,93.3,Septoria Leaf Spot
+21.7,91.4,Septoria Leaf Spot
+22.2,91.4,Septoria Leaf Spot
+22.3,88.8,Septoria Leaf Spot
+22.3,85.3,Septoria Leaf Spot
+23.1,86.9,Septoria Leaf Spot
+22.9,90,Septoria Leaf Spot
+23,87.4,Septoria Leaf Spot
+23.1,90,Septoria Leaf Spot
+23.7,87.3,Septoria Leaf Spot
+22.9,89.1,Septoria Leaf Spot
+23.9,85.6,Septoria Leaf Spot
+23.6,86.5,Septoria Leaf Spot
+22.6,90.2,Septoria Leaf Spot
+22.2,91.1,Septoria Leaf Spot
+23.2,87.2,Septoria Leaf Spot
+23,87.7,Septoria Leaf Spot
+22.9,85.6,Septoria Leaf Spot
+23.3,85.1,Septoria Leaf Spot
+20.9,92.1,Septoria Leaf Spot
+22.8,85.1,Septoria Leaf Spot
+22.5,87.1,Septoria Leaf Spot
+23,89,Septoria Leaf Spot
+23.4,87.7,Septoria Leaf Spot
+23.5,88.2,Septoria Leaf Spot
+23.7,86.1,Septoria Leaf Spot
+23.9,85.3,Septoria Leaf Spot
+22.9,89.3,Septoria Leaf Spot
+23.9,86.8,Septoria Leaf Spot
+23.2,89.6,Septoria Leaf Spot
+23.3,85.9,Septoria Leaf Spot
+23,88.6,Septoria Leaf Spot
+23.4,85.1,Septoria Leaf Spot
+21.8,85.4,Septoria Leaf Spot
+22.4,85.1,Septoria Leaf Spot
+21.2,85.3,Septoria Leaf Spot
+20.6,93,Septoria Leaf Spot
+21.5,90.3,Septoria Leaf Spot
+22.2,88.7,Septoria Leaf Spot
+20.6,87.1,Septoria Leaf Spot
+20.4,94.3,Septoria Leaf Spot
+21.4,91.7,Septoria Leaf Spot
+21.9,85.5,Septoria Leaf Spot
+20.9,87.3,Septoria Leaf Spot
+21.6,91,Septoria Leaf Spot
+21.7,94.6,Septoria Leaf Spot
+21,87,Septoria Leaf Spot
+21.1,93.8,Septoria Leaf Spot
+21.1,92.2,Septoria Leaf Spot
+21.1,87.3,Septoria Leaf Spot
+20.8,90.6,Septoria Leaf Spot
+21.7,88.9,Septoria Leaf Spot
+21.3,91.8,Septoria Leaf Spot
+22.1,95.7,Septoria Leaf Spot
+24.5,97.1,Septoria Leaf Spot
+24.1,98.5,Septoria Leaf Spot
+24.6,93.5,Septoria Leaf Spot
+23.8,97.8,Septoria Leaf Spot
+24.9,91.6,Septoria Leaf Spot
+24.9,96.2,Septoria Leaf Spot
+24.1,96.4,Septoria Leaf Spot
+24.9,96.2,Septoria Leaf Spot
+24.6,99.4,Septoria Leaf Spot
+24.3,98.3,Septoria Leaf Spot
+23.7,96.2,Septoria Leaf Spot
+24.5,93.8,Septoria Leaf Spot
+24.3,93.5,Septoria Leaf Spot
+24.1,94.1,Septoria Leaf Spot
+24.9,90.4,Septoria Leaf Spot
+23.8,95.1,Septoria Leaf Spot
+23.3,97.7,Septoria Leaf Spot
+24,93.3,Septoria Leaf Spot
+24.2,94.5,Septoria Leaf Spot
+23.4,98.2,Septoria Leaf Spot
+23.7,98.1,Septoria Leaf Spot
+24,96,Septoria Leaf Spot
+24.9,91.4,Septoria Leaf Spot
+24.9,92.8,Septoria Leaf Spot
+24.8,93.3,Septoria Leaf Spot
+24.7,90.4,Septoria Leaf Spot
+24.9,86.9,Septoria Leaf Spot
+23.8,93.1,Septoria Leaf Spot
+24.2,89.7,Septoria Leaf Spot
+24.1,97.3,Septoria Leaf Spot
+24.8,94.3,Septoria Leaf Spot
+24.8,93.1,Septoria Leaf Spot
+24.3,93.9,Septoria Leaf Spot
+24.5,94,Septoria Leaf Spot
+23.9,95.4,Septoria Leaf Spot
+24.4,96.4,Septoria Leaf Spot
+24.9,90.2,Septoria Leaf Spot
+23.7,96.5,Septoria Leaf Spot
+23.5,93.6,Septoria Leaf Spot
+23.3,96,Septoria Leaf Spot
+22.2,96.1,Septoria Leaf Spot
+23.9,89.8,Septoria Leaf Spot
+24.3,88.9,Septoria Leaf Spot
+24.8,92.5,Septoria Leaf Spot
+24.2,95,Septoria Leaf Spot
+24.6,90.6,Septoria Leaf Spot
+24.3,93.2,Septoria Leaf Spot
+24.2,87.2,Septoria Leaf Spot
+22.6,93.8,Septoria Leaf Spot

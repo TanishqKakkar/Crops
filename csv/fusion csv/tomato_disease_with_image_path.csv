@@ -1,0 +1,447 @@
+temp,humidity,predicted_disease,image_path
+25.9,90.7,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\589a6ce6-fa0d-4b2a-9f83-59f103aa8afa___GCREC_Bact.Sp 3146.JPG
+26.3,90.8,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\aug_3708.jpg
+26.9,90.1,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\64208676-e4c1-4f27-84ba-38c7e0790320___GCREC_Bact.Sp 3779.JPG
+26.4,91.4,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\BS_(262).jpg
+25.9,91.4,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\b34a1119-72d6-4c68-88f2-17ab64ee3457___GCREC_Bact.Sp 3101.JPG
+26.3,90.1,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\BS_(12).jpg
+25.5,94.4,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\aug_3778.jpg
+26.1,91.4,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\75348d38-1c41-4798-89c9-b99660d937ef___GCREC_Bact.Sp 5602.JPG
+25.7,91.0,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\Septoria Leafspot.jpg
+25.6,92.5,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\Bs89_hight.jpg
+25.9,93.6,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\Bacterial_spots563_jpg.rf.48e5f1ad4fa652be8d5e58017370f150.jpg
+25.3,96.4,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\Bs42_change_180.jpg
+25.4,92.7,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\caf5fa98-1dd1-44a8-8ce1-35fff6e06818___GCREC_Bact.Sp 5783.JPG
+26.3,90.3,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\717c7e16-5170-4f12-9e76-cffdfe950803___GCREC_Bact.Sp 3718.JPG
+25.1,95.6,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\7f0a444d-f5ca-4378-a06d-fa94469f2ae1___GCREC_Bact.Sp 3686.JPG
+25.5,91.7,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\a6c99119-aca8-43e0-bb73-5616aa205bbc___GCREC_Bact.Sp 5577.JPG
+25.0,93.5,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\Bs73_change_270.jpg
+25.9,90.2,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\BS_(349).jpg
+25.3,91.3,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\8227d24c-9e0f-4119-9324-8ba192ba9201___GCREC_Bact.Sp 3299.JPG
+25.3,90.9,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\Bs62.JPG
+25.6,91.0,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\Bs80_change_180.jpg
+25.9,90.6,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\BS_(259).jpg
+25.4,91.0,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\c8875e15-728e-4c47-829f-c194fee60ae5___GCREC_Bact.Sp 3296.JPG
+25.7,90.1,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\eaea12c1-998c-4853-ba5e-95c8cb08c4b9___GCREC_Bact.Sp 3324.JPG
+26.0,90.9,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\6be0f74e-cc77-417d-9464-fca77edb8079___GCREC_Bact.Sp 3819.JPG
+25.8,92.9,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\24cd9e39-f7d2-4dd3-9681-b3a8e35cd3db___GCREC_Bact.Sp 3048.JPG
+25.5,92.6,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\8359ee8c-ab0e-4aaf-9369-b1a748e4dcf1___GCREC_Bact.Sp 6337.JPG
+25.5,92.5,Bacterial Spot,D:\crops\dataset\tomato\Bacterial_spot\71eeeb09-ce59-4b58-80a4-a01c4348a218___GCREC_Bact.Sp 3305.JPG
+24.9,83.0,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3195.jpg
+24.9,79.9,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3658.jpg
+24.9,79.0,Early Blight,D:\crops\dataset\tomato\Early_blight\b3129245-a3b0-4451-a213-b15fe08734b7___RS_Erly.B 9423_flipTB.JPG
+24.5,81.4,Early Blight,D:\crops\dataset\tomato\Early_blight\EB_(128).JPG
+24.8,77.7,Early Blight,D:\crops\dataset\tomato\Early_blight\126689-004-D622CD2F_jpg.rf.bb3cb90b0b8016bddd9762a5663dbe0e.jpg
+24.9,78.5,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3249.jpg
+24.6,79.5,Early Blight,D:\crops\dataset\tomato\Early_blight\29345423-647e-4e1b-81f4-16d8cfc0e137___RS_Erly.B 7422_flipTB.JPG
+24.1,83.1,Early Blight,D:\crops\dataset\tomato\Early_blight\07324d80-17c5-4541-9702-62e9c744ac07___RS_Erly.B 7455_180deg.JPG
+24.0,82.0,Early Blight,D:\crops\dataset\tomato\Early_blight\b81b4276-e0c9-460a-ab94-79b6a5d0f2d6___RS_Erly.B 7538_flipTB.JPG
+24.3,80.3,Early Blight,D:\crops\dataset\tomato\Early_blight\c084fdcc-8347-4e73-be57-e66840ffba28___RS_Erly.B 7787.JPG
+24.8,80.7,Early Blight,D:\crops\dataset\tomato\Early_blight\150cfe75-133e-4e98-90cb-de96a8120c03___RS_Erly.B 9414.JPG
+24.3,83.6,Early Blight,D:\crops\dataset\tomato\Early_blight\0208ed52-1b28-4c9c-88e3-4667581e1109___RS_Erly.B 7829_180deg.JPG
+24.4,82.5,Early Blight,D:\crops\dataset\tomato\Early_blight\db228bdf-309f-4dd5-a3c7-d77af0acadb8___RS_Erly.B 7584_flipTB.JPG
+24.9,81.6,Early Blight,D:\crops\dataset\tomato\Early_blight\efe14014-c5b8-433b-a469-e10ca8d7c551___RS_Erly.B 7499_flipTB.JPG
+24.1,82.4,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3611.jpg
+24.0,84.7,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3775.jpg
+24.9,77.9,Early Blight,D:\crops\dataset\tomato\Early_blight\90c69e4c-c526-4f72-b0b0-4127fc6acb0a___RS_Erly.B 7782_flipTB.JPG
+24.0,83.3,Early Blight,D:\crops\dataset\tomato\Early_blight\b6d8ce15-f786-4998-a67c-1390da696a07___RS_Erly.B 9521_flipTB.JPG
+24.9,78.9,Early Blight,D:\crops\dataset\tomato\Early_blight\1de17623-e625-4a3a-91e8-64973e6d09fd___RS_Erly.B 9577.JPG
+24.1,84.8,Early Blight,D:\crops\dataset\tomato\Early_blight\10e7dcfd-2cbc-4623-ba9f-94f0e2e4fe13___RS_Erly.B 7648.JPG
+24.3,80.5,Early Blight,D:\crops\dataset\tomato\Early_blight\f459c3ee-91f9-42e4-8a61-8c2b6ba9a435___RS_Erly.B 9522.JPG
+24.1,79.7,Early Blight,D:\crops\dataset\tomato\Early_blight\3537d467-9926-49dc-8d11-74a76b196354___RS_Erly.B 7665.JPG
+24.1,81.7,Early Blight,D:\crops\dataset\tomato\Early_blight\EB_(602).JPG
+24.8,79.5,Early Blight,D:\crops\dataset\tomato\Early_blight\3205c4f9-9dd4-44ce-8e4c-0bd93405d60b___RS_Erly.B 6331.JPG
+24.5,83.9,Early Blight,D:\crops\dataset\tomato\Early_blight\386b2d80-35c1-4fa5-98b6-f78c1c9cfb36___RS_Erly.B 6470_180deg.JPG
+24.2,84.1,Early Blight,D:\crops\dataset\tomato\Early_blight\Early-blight-660x440_jpg.rf.5e64f2703696a5272b3f2945ad72f3a6.jpg
+24.3,83.5,Early Blight,D:\crops\dataset\tomato\Early_blight\0bb52721-51a6-4343-8c54-de15cedf8e5c___RS_Erly.B 7572.JPG
+24.2,78.1,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3323.jpg
+24.3,81.6,Early Blight,D:\crops\dataset\tomato\Early_blight\fbe86131-6873-460e-880a-6ee8576b6bc9___RS_Erly.B 7551_flipTB.JPG
+24.8,82.5,Early Blight,D:\crops\dataset\tomato\Early_blight\92df4dc7-e952-4454-9fed-a7897d16903b___RS_Erly.B 6448_flipTB.JPG
+24.6,83.1,Early Blight,D:\crops\dataset\tomato\Early_blight\c2369b01-d04f-443c-b6ab-9e62e1480420___RS_Erly.B 8397_flipTB.JPG
+24.7,82.2,Early Blight,D:\crops\dataset\tomato\Early_blight\b8b9300b-f085-49ce-a052-5c003e493f7e___RS_Erly.B 7507.JPG
+24.7,73.9,Early Blight,D:\crops\dataset\tomato\Early_blight\84fe717f-2161-43c2-ad2f-ee2678a31e9f___RS_Erly.B 9416_flipTB.JPG
+24.9,79.5,Early Blight,D:\crops\dataset\tomato\Early_blight\96f7a84a-cafa-487d-a032-548cfe965bdb___RS_Erly.B 9621_flipTB.JPG
+24.3,83.9,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3264.jpg
+24.8,79.4,Early Blight,D:\crops\dataset\tomato\Early_blight\EB_(39).jpg
+24.1,80.7,Early Blight,D:\crops\dataset\tomato\Early_blight\264bc13b-2bcd-40f8-ae25-23aef0ccdc64___RS_Erly.B 7589_180deg.JPG
+24.0,79.7,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3406.jpg
+24.3,79.9,Early Blight,D:\crops\dataset\tomato\Early_blight\73f4d791-745e-49b8-82d8-e29b24ddd0e5___RS_Erly.B 7593.JPG
+24.9,78.9,Early Blight,D:\crops\dataset\tomato\Early_blight\cc822ace-0411-4ff9-b040-3670031c6467___RS_Erly.B 7553_180deg.JPG
+24.3,80.5,Early Blight,D:\crops\dataset\tomato\Early_blight\f9f35406-f925-4c34-a1f5-0f73563033a0___RS_Erly.B 7570.JPG
+24.7,77.7,Early Blight,D:\crops\dataset\tomato\Early_blight\54d55df4-c760-4191-b998-d1e1493a35f5___RS_Erly.B 7524_flipTB.JPG
+24.0,82.4,Early Blight,D:\crops\dataset\tomato\Early_blight\a00845f3-9a14-474b-967c-82b7ea7b314f___RS_Erly.B 7550_flipTB.JPG
+24.2,77.1,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3476.jpg
+24.3,71.4,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3502.jpg
+24.6,73.9,Early Blight,D:\crops\dataset\tomato\Early_blight\c684414e-2c2b-4d12-bca0-2a5fb271e1da___RS_Erly.B 8425_180deg.JPG
+24.7,72.0,Early Blight,D:\crops\dataset\tomato\Early_blight\546af1f7-3d4f-4024-88b1-f981fea7f2dd___RS_Erly.B 9455_180deg.JPG
+24.4,77.7,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3387.jpg
+24.2,81.8,Early Blight,D:\crops\dataset\tomato\Early_blight\38c6a01b-91c0-431b-8f58-05fa43cf94b7___RS_Erly.B 9408.JPG
+24.3,83.4,Early Blight,D:\crops\dataset\tomato\Early_blight\113562f3-fe24-4b28-9ec8-7ca432bded47___RS_Erly.B 9402_180deg.JPG
+24.0,81.2,Early Blight,D:\crops\dataset\tomato\Early_blight\earlyblightresize_jpg.rf.2140a7d3669e1c2d4acc2e5cf070f3d0.jpg
+24.7,74.4,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3191.jpg
+24.7,76.9,Early Blight,D:\crops\dataset\tomato\Early_blight\EB_(8).jpg
+24.2,77.0,Early Blight,D:\crops\dataset\tomato\Early_blight\a6abb0cb-af59-4136-a928-f08d5313ae36___RS_Erly.B 7561.JPG
+24.2,79.7,Early Blight,D:\crops\dataset\tomato\Early_blight\images.jpg
+24.9,79.5,Early Blight,D:\crops\dataset\tomato\Early_blight\6043e8e3-0ab2-4b30-b125-e2a26123b487___RS_Erly.B 8307_flipTB.JPG
+24.6,80.8,Early Blight,D:\crops\dataset\tomato\Early_blight\47e03272-d314-4928-bf7c-eda3ba6e7371___RS_Erly.B 7380_flipTB.JPG
+24.5,72.8,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3479.jpg
+24.4,75.3,Early Blight,D:\crops\dataset\tomato\Early_blight\Close-up-early-blight.jpg
+24.0,74.9,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3171.jpg
+24.5,73.2,Early Blight,D:\crops\dataset\tomato\Early_blight\EB_(96).JPG
+24.6,74.4,Early Blight,D:\crops\dataset\tomato\Early_blight\62b8d81a-906b-4885-8b2d-e317d7bdd705___RS_Erly.B 7832_flipTB.JPG
+24.7,72.1,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3727.jpg
+24.8,77.7,Early Blight,D:\crops\dataset\tomato\Early_blight\7b4b71f7-ba45-45b8-80c4-a80ae73b9d0f___RS_Erly.B 7611.JPG
+24.7,78.7,Early Blight,D:\crops\dataset\tomato\Early_blight\654d7c11-664e-47c0-a6aa-c5c45a07e386___RS_Erly.B 7799.JPG
+24.1,82.8,Early Blight,D:\crops\dataset\tomato\Early_blight\55761153-0f6a-4dad-981e-16fde2ac683f___RS_Erly.B 6387_flipTB.JPG
+24.1,78.8,Early Blight,D:\crops\dataset\tomato\Early_blight\a54e9f9d-e56b-4097-83c2-b137f9111edf___RS_Erly.B 9411_180deg.JPG
+24.0,77.1,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3854.jpg
+24.0,78.3,Early Blight,D:\crops\dataset\tomato\Early_blight\EB_(213).JPG
+24.0,77.8,Early Blight,D:\crops\dataset\tomato\Early_blight\EB_(119).JPG
+24.1,82.8,Early Blight,D:\crops\dataset\tomato\Early_blight\EB_(105).JPG
+24.5,81.8,Early Blight,D:\crops\dataset\tomato\Early_blight\d53bdcff-1ea7-46c7-9d46-701d104bf130___RS_Erly.B 8353.JPG
+24.2,83.2,Early Blight,D:\crops\dataset\tomato\Early_blight\b0bc0b85-fce9-43cc-87d1-481d4a107b5c___RS_Erly.B 9451.JPG
+24.5,78.3,Early Blight,D:\crops\dataset\tomato\Early_blight\images (1).jpg
+24.0,80.8,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3402.jpg
+24.2,79.6,Early Blight,D:\crops\dataset\tomato\Early_blight\07324d80-17c5-4541-9702-62e9c744ac07___RS_Erly.B 7455.JPG
+24.5,79.9,Early Blight,D:\crops\dataset\tomato\Early_blight\a67b9ba1-99ff-4826-8f7b-1b89ca61980e___RS_Erly.B 7597_flipTB.JPG
+24.4,81.4,Early Blight,D:\crops\dataset\tomato\Early_blight\EB_(157).JPG
+24.4,80.0,Early Blight,D:\crops\dataset\tomato\Early_blight\5b71fe03-84fc-4866-9bf8-e557ce918c6e___RS_Erly.B 9580.JPG
+24.4,77.6,Early Blight,D:\crops\dataset\tomato\Early_blight\47465f0e-80ef-4641-b24b-7147dd82596d___RS_Erly.B 9473.JPG
+24.3,78.4,Early Blight,D:\crops\dataset\tomato\Early_blight\7bab9b53-f608-4f3f-8325-d730d846b3d9___RS_Erly.B 7695.JPG
+24.4,77.1,Early Blight,D:\crops\dataset\tomato\Early_blight\243a77c6-b401-43c4-9230-68b4b11f3b83___RS_Erly.B 7754_flipTB.JPG
+24.0,82.6,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3744.jpg
+24.0,84.5,Early Blight,D:\crops\dataset\tomato\Early_blight\EB_(186).JPG
+24.0,82.2,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3359.jpg
+24.5,80.5,Early Blight,D:\crops\dataset\tomato\Early_blight\54d55df4-c760-4191-b998-d1e1493a35f5___RS_Erly.B 7524_180deg.JPG
+24.3,77.9,Early Blight,D:\crops\dataset\tomato\Early_blight\79b737a7-eca5-4eb9-b30e-dd3e85640e55___RS_Erly.B 9492_180deg.JPG
+24.8,76.4,Early Blight,D:\crops\dataset\tomato\Early_blight\EB_(287).JPG
+24.2,81.1,Early Blight,D:\crops\dataset\tomato\Early_blight\EB_(214).JPG
+24.3,77.0,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3631.jpg
+24.6,80.8,Early Blight,D:\crops\dataset\tomato\Early_blight\e3aef05b-9ed6-421c-a44d-82a996b3e3bb___RS_Erly.B 7803.JPG
+24.2,78.6,Early Blight,D:\crops\dataset\tomato\Early_blight\79b737a7-eca5-4eb9-b30e-dd3e85640e55___RS_Erly.B 9492.JPG
+24.5,83.0,Early Blight,D:\crops\dataset\tomato\Early_blight\a3d07302-420d-4b4e-94f2-6694ef9d2088___RS_Erly.B 7652_180deg.JPG
+24.7,80.5,Early Blight,D:\crops\dataset\tomato\Early_blight\EB_(172).JPG
+24.2,83.2,Early Blight,D:\crops\dataset\tomato\Early_blight\06339fe1-154f-4bcb-be91-a29e86e25929___RS_Erly.B 7440_180deg.JPG
+24.4,80.2,Early Blight,D:\crops\dataset\tomato\Early_blight\eb94014e-83b7-46a4-9b1a-7cae23876302___RS_Erly.B 7471_flipTB.JPG
+24.8,77.8,Early Blight,D:\crops\dataset\tomato\Early_blight\8597694d-3162-40ab-9f5b-e8c7cf03e045___RS_Erly.B 9485.JPG
+24.7,79.6,Early Blight,D:\crops\dataset\tomato\Early_blight\EB_(125).JPG
+24.9,79.3,Early Blight,D:\crops\dataset\tomato\Early_blight\28d03063-a772-4136-80fd-3bbff0fffa41___RS_Erly.B 7370.JPG
+24.2,82.5,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3412.jpg
+24.2,78.8,Early Blight,D:\crops\dataset\tomato\Early_blight\9cd2e960-3941-4b60-84fb-0ed227c26ed7___RS_Erly.B 7839.JPG
+24.1,77.3,Early Blight,D:\crops\dataset\tomato\Early_blight\197fa869-c124-436e-b3cd-bced95f52a8e___RS_Erly.B 7834_flipTB.JPG
+24.5,76.0,Early Blight,D:\crops\dataset\tomato\Early_blight\EB_(150).JPG
+24.6,78.1,Early Blight,D:\crops\dataset\tomato\Early_blight\603c6233-8cc0-4bb7-97f3-0e5db1614c63___RS_Erly.B 9398_flipTB.JPG
+24.9,77.0,Early Blight,D:\crops\dataset\tomato\Early_blight\ba789eab-7c04-4012-b8fa-98106b20b50c___RS_Erly.B 7771_180deg.JPG
+24.3,79.2,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3837.jpg
+24.8,78.3,Early Blight,D:\crops\dataset\tomato\Early_blight\603c6233-8cc0-4bb7-97f3-0e5db1614c63___RS_Erly.B 9398_180deg.JPG
+24.7,73.7,Early Blight,D:\crops\dataset\tomato\Early_blight\59dbd132-6e6c-4127-a218-b7602cbee670___RS_Erly.B 9449_flipTB.JPG
+24.9,74.0,Early Blight,D:\crops\dataset\tomato\Early_blight\5390d8c0-5781-47cf-8d0a-482e000a01f3___RS_Erly.B 7400.JPG
+24.8,73.8,Early Blight,D:\crops\dataset\tomato\Early_blight\be03b7aa-4c59-4ea9-b3cc-33a93a34b402___RS_Erly.B 7742_flipTB.JPG
+24.7,79.7,Early Blight,D:\crops\dataset\tomato\Early_blight\bec8a4aa-dd9c-44db-815a-c760d49a8868___RS_Erly.B 7680_flipTB.JPG
+24.6,79.7,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3329.jpg
+24.0,83.0,Early Blight,D:\crops\dataset\tomato\Early_blight\a20bd77c-4ecf-473c-89aa-329b1719fbe1___RS_Erly.B 7639_180deg.JPG
+24.0,84.2,Early Blight,D:\crops\dataset\tomato\Early_blight\late-blight-tomato.jpg
+24.2,76.6,Early Blight,D:\crops\dataset\tomato\Early_blight\eb2537b2-d6fa-4c70-b919-f90bbe2c65f2___RS_Erly.B 7605.JPG
+24.0,76.5,Early Blight,D:\crops\dataset\tomato\Early_blight\EB_(593).JPG
+24.2,79.6,Early Blight,D:\crops\dataset\tomato\Early_blight\d59a0542-4c2a-441b-8566-e1f741e917d4___RS_Erly.B 6437.JPG
+24.3,80.9,Early Blight,D:\crops\dataset\tomato\Early_blight\bab7dc71-f5d2-4b07-a582-11a13f785b3d___RS_Erly.B 7764_180deg.JPG
+24.8,80.2,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3483.jpg
+24.0,83.1,Early Blight,D:\crops\dataset\tomato\Early_blight\da84925b-554a-465d-bdb2-91851f77d5ce___RS_Erly.B 9420_180deg.JPG
+24.0,77.4,Early Blight,D:\crops\dataset\tomato\Early_blight\c2369b01-d04f-443c-b6ab-9e62e1480420___RS_Erly.B 8397_flipTB.JPG
+24.0,84.6,Early Blight,D:\crops\dataset\tomato\Early_blight\df9e0c7e-59cb-4a87-abbd-66f0f78e5130___RS_Erly.B 8275.JPG
+24.8,80.2,Early Blight,D:\crops\dataset\tomato\Early_blight\e332b0b1-ed0c-49b0-aad2-da29a8636126___RS_Erly.B 9418.JPG
+24.8,74.2,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3338.jpg
+24.8,74.5,Early Blight,D:\crops\dataset\tomato\Early_blight\tomato-early-blightH_jpg.rf.2633fbae0a933eb2711cb8466f34aca1.jpg
+24.1,78.0,Early Blight,D:\crops\dataset\tomato\Early_blight\121e9cbe-77d2-43ca-8e04-17a556a1c2b2___RS_Erly.B 7512_180deg.JPG
+24.0,76.9,Early Blight,D:\crops\dataset\tomato\Early_blight\EB_(20).jpg
+24.2,80.7,Early Blight,D:\crops\dataset\tomato\Early_blight\29645def-a571-4442-8f95-d7ebf71befde___RS_Erly.B 7751_180deg.JPG
+24.1,83.2,Early Blight,D:\crops\dataset\tomato\Early_blight\aug_3665.jpg
+24.2,78.5,Early Blight,D:\crops\dataset\tomato\Early_blight\1234080-Early-Blight_jpg.rf.56ad43a4a453ae9859108e33362ec1f4.jpg
+24.2,79.4,Early Blight,D:\crops\dataset\tomato\Early_blight\1.jpg
+24.3,77.2,Early Blight,D:\crops\dataset\tomato\Early_blight\1bb0101c-d0a4-41a5-85b9-6e8634d01a36___RS_Erly.B 9585.JPG
+24.7,81.7,Early Blight,D:\crops\dataset\tomato\Early_blight\0bb52721-51a6-4343-8c54-de15cedf8e5c___RS_Erly.B 7572.JPG
+19.7,98.0,Late Blight,D:\crops\dataset\tomato\Late_blight\LB_ (381).png
+19.6,93.6,Late Blight,D:\crops\dataset\tomato\Late_blight\fb5dc387-cb1d-49bb-b81e-58d60705a2fd___GHLB_PS Leaf 1.3 Day 16.jpg
+18.8,95.1,Late Blight,D:\crops\dataset\tomato\Late_blight\5d5d8789-8979-4e2d-ac17-7228e8af61c9___RS_Late.B 5109.JPG
+19.9,97.8,Late Blight,D:\crops\dataset\tomato\Late_blight\late_blight_tomato_transplant2x1200_jpg.rf.fe7287f131ef4827cb2265ed7383e38c.jpg
+18.4,95.0,Late Blight,D:\crops\dataset\tomato\Late_blight\8168a850-1360-49cf-8ecc-77730cc24ac5___RS_Late.B 4979.JPG
+19.7,96.8,Late Blight,D:\crops\dataset\tomato\Late_blight\LB_ (248).jpg
+18.5,91.1,Late Blight,D:\crops\dataset\tomato\Late_blight\tomato_late-blight_01_zoom_jpg.rf.837d1c4ca5229ce2e18f49d99c840a53.jpg
+18.7,92.4,Late Blight,D:\crops\dataset\tomato\Late_blight\d730e978-5e96-4a43-878b-33ffc5b635c4___GHLB2 Leaf 8972.JPG
+17.9,96.2,Late Blight,D:\crops\dataset\tomato\Late_blight\Lb81_mirror_vertical.jpg
+19.0,92.0,Late Blight,D:\crops\dataset\tomato\Late_blight\25a83fb3-e27a-419c-a9db-652fae319fcd___RS_Late.B 6191.JPG
+17.8,90.2,Late Blight,D:\crops\dataset\tomato\Late_blight\a5f089d1-5a8e-4c1f-bcc2-c1154c28e824___GHLB2 Leaf 8926.JPG
+17.6,95.5,Late Blight,D:\crops\dataset\tomato\Late_blight\Lb73_mirror_vertical.jpg
+16.9,97.1,Late Blight,D:\crops\dataset\tomato\Late_blight\03e8a2f9-6a7e-43dd-8a1b-3eb7cf99b89b___RS_Late.B 5034.JPG
+23.3,88.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\BCH-20medium-20thumbnail-20for-20upload-20-2861-29_jpg.rf.f138e1920aeffb01938a3768a7cee40f.jpg
+23.4,86.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls59_mirror.jpg
+23.8,85.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\609fec75-fdd5-4adc-8748-121c9420e813___JR_Sept.L.S 2485.JPG
+23.6,86.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (525).jpg
+23.0,90.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\19352c8e-cfc9-4980-86a7-4c067390770a___Matt.S_CG 1107.JPG
+22.5,93.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (976).jpg
+22.9,89.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls58_change_180.jpg
+23.8,85.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (32).jpg
+24.6,85.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3717.jpg
+23.8,89.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\80ec9d60-0f20-4c02-8d63-76108e90bc14___JR_Sept.L.S 8525.JPG
+23.6,91.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (860).jpg
+24.0,85.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\de026b6e-618a-4d24-8e9a-511144aa94d9___Matt.S_CG 0915.JPG
+23.6,87.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\4dc663c9-994d-4204-ae40-30d5eab53bc9___Matt.S_CG 0678_flipTB.JPG
+23.7,85.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\a0268a59-6f6e-4f65-973a-a282a1d078fd___Matt.S_CG 0972.JPG
+23.3,86.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\1f7fb33a-b74e-465c-ac76-8c3866931a3d___Keller.St_CG 2011_flipTB.JPG
+22.6,88.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3648.jpg
+22.6,87.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\IMG_0312_original_jpg.rf.f0341349fc4c9ace89288c595d6f4347.jpg
+23.7,86.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls16_change_270.jpg
+22.6,89.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls20_change_90.jpg
+22.5,86.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\25592188-309d-450c-b45f-fbbdb02b316f___Matt.S_CG 6181.JPG
+23.2,88.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\bfea5a30-8ece-4c04-b437-ca17fe9fab95___JR_Sept.L.S 2481.JPG
+22.2,87.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls67_change_180.jpg
+22.5,91.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\6d7faf0d-1f04-4aba-a0aa-21c36ed89881___Matt.S_CG 6775.JPG
+23.0,90.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\657bb6c3-e9e8-41ce-b3ef-265168eae5d6___Matt.S_CG 6685.JPG
+24.0,86.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\cc446d29-cb74-4c2d-b9c4-a08632ea045b___Matt.S_CG 7850.JPG
+23.9,87.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\56aea38d-2fda-4328-9b47-c185a72fc73f___Matt.S_CG 7755.JPG
+22.7,87.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls54_lower.jpg
+22.2,92.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (401).jpg
+22.0,91.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\2f8bcf08-19de-4aa3-a60d-fa6593a53359___JR_Sept.L.S 2679_180deg.JPG
+22.5,88.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls35_lower.jpg
+22.7,88.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\2eb010be-cfb9-40cf-9b69-0521e5ecf2a1___Matt.S_CG 1263_180deg.JPG
+21.1,96.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\9b52dfbf-f3d7-4777-a620-7eaa6d3086aa___Matt.S_CG 6156.JPG
+22.4,85.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\f4c72190-f1cf-4421-9cb1-bc69b5b621dd___JR_Sept.L.S 2509.JPG
+23.1,85.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\c55b187d-939e-4394-8306-d310764c30f6___Matt.S_CG 2479.JPG
+22.9,89.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3860.jpg
+22.7,86.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\3dd32fea-62e8-4ae9-b307-5513e845b519___JR_Sept.L.S 2663_flipTB.JPG
+24.3,86.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls81_change_270.jpg
+22.2,93.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\3af1fd7b-aca5-405e-b4ab-3615eaa6c0df___Matt.S_CG 6915_flipTB.JPG
+22.3,91.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\18e46966-a79e-4f9d-a91c-b65f3f8488d2___Matt.S_CG 0872.JPG
+21.8,92.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\9eb517fe-cc34-41d9-9ab8-fb638146707a___Matt.S_CG 7737.JPG
+23.6,88.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (445).jpg
+23.3,90.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\2f161206-d4aa-4e2a-a0a5-96213d42198d___JR_Sept.L.S 2589_180deg.JPG
+22.9,91.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\144f0195-69a2-4bdb-aebb-70f62b2bcff4___Matt.S_CG 7547.JPG
+22.8,92.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls16_change_90.jpg
+22.2,91.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\42184af4-cb8b-4287-b000-04fa630a167f___Matt.S_CG 2424.JPG
+22.3,92.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\c5dda767-1685-414e-bcfe-4f0f09328c0b___JR_Sept.L.S 2521.JPG
+21.7,92.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Cassie-1-1q9ffyq.jpg
+21.9,94.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\6078710516023296-jpeg_jpg.rf.3d25f504deab6af109d153752d2864fe.jpg
+21.0,86.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3861.jpg
+21.6,86.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls15_lower.jpg
+20.7,93.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\6ab1d41b-ce72-4019-9852-5627d34aa0e2___JR_Sept.L.S 2711.JPG
+21.2,90.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\53bd5f98-4343-4421-bf83-f970bce432bb___JR_Sept.L.S 8509.JPG
+21.0,90.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls10_mirror.jpg
+21.8,87.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (935).jpg
+21.4,92.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (439).jpg
+21.8,87.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\b8f26cf7-692f-4f77-bbe5-e6ba091ac2cb___Keller.St_CG 1941.JPG
+21.2,85.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\6fedc093-cd0a-4aae-8a93-aa9fea75bf6c___Keller.St_CG 1947.JPG
+21.4,86.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls2_change_270.jpg
+21.1,86.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\3a89c017-4b4b-4f64-a018-05c98a2fa611___Matt.S_CG 1219.JPG
+21.6,85.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\beb68b2e-8410-4421-ac36-2ee33bf6e69a___Matt.S_CG 0871.JPG
+21.3,95.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\2c83508f-bec1-4962-add3-f16cf5620193___Keller.St_CG 1926_flipTB.JPG
+21.6,92.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls60_hight.jpg
+22.5,87.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\184031fe-22fe-479d-bb2d-9bb7122d60a9___Matt.S_CG 0881.JPG
+21.8,87.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\963549d4-2e44-4b10-8e73-9d955a80949c___Keller.St_CG 1946.JPG
+20.9,85.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\d90c2358-fa7a-4ad8-913f-37ff4cfd29d0___JR_Sept.L.S 8346.JPG
+23.8,88.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\c63725ce-e02c-4492-ba93-20a2cca9b45b___Matt.S_CG 7615.JPG
+23.9,88.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\796b5446-9007-427b-8ac0-2264a67569e0___Matt.S_CG 6541.JPG
+23.9,85.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\d5380a5d-03bb-46d1-ae25-b245f3eec822___Matt.S_CG 7626.JPG
+23.2,85.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\bfb5ed4d-3ab7-4b59-88be-d49f685be1c3___Matt.S_CG 0760.JPG
+22.8,85.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\a68bc7e8-ac57-4c01-89d3-a53e2cb80480___Matt.S_CG 1536.JPG
+22.7,86.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\31762015-58df-4fd1-a50d-25710877bbad___JR_Sept.L.S 2480.JPG
+22.3,92.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\51357363-ec5f-4e60-a8ad-43911cd15c16___Matt.S_CG 7854.JPG
+22.1,92.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\c0273404-800px-wm.jpg
+23.1,87.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\5516100468998144-jpeg_jpg.rf.3cee73d42ad8fab4b61f22dfdf41a0ee.jpg
+22.1,94.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (396).jpg
+23.3,87.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls6_mirror.jpg
+22.2,92.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3904.jpg
+22.1,91.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\e6ece834-f699-413b-baf7-2a66e3a38575___Keller.St_CG 1828.JPG
+22.2,91.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\2e656e51-9eab-4873-9a8e-f27811215256___Matt.S_CG 2509_180deg.JPG
+23.1,89.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\38d4dce3-2aea-4488-a5ef-1d95c25b6e69___Matt.S_CG 1384.JPG
+23.5,86.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (599).jpg
+23.4,86.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (919).jpg
+23.0,86.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\26f9e49d-d900-4607-96c4-3139ba4db3d5___Matt.S_CG 6067.JPG
+22.9,87.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls72_change_180.jpg
+23.4,89.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\cfe066a7-1a1c-4b23-8241-dad4cc5660da___Matt.S_CG 7718.JPG
+23.1,88.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls53_mirror_vertical.jpg
+22.1,88.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls52_change_270.jpg
+22.8,88.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\0a25f893-1b5f-4845-baa1-f68ac03d96ac___Matt.S_CG 7863_180deg.JPG
+22.6,89.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\e94aaf1a-0c1b-4020-87f0-93c74f929f1c___JR_Sept.L.S 8496.JPG
+22.8,89.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\fb9766cd-052f-42df-96db-33602cf051e6___Matt.S_CG 6051.JPG
+22.6,87.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\tomato-badleaves_jpg.rf.10f0220e73e8afda6479fde44c5871c4.jpg
+22.4,86.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\b8761d9f-9f66-4e83-a712-507e05010403___Keller.St_CG 1806.JPG
+23.4,89.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\f214d421-d6a3-4152-9e8f-db81ceb32dd1___Matt.S_CG 7811.JPG
+23.5,85.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\image.jpg
+23.3,85.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\d2855259-5c5b-42b9-9357-67ac58d21d44___Matt.S_CG 7614.JPG
+23.8,85.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\baeeb93d-df9f-489a-a019-5adc8cf361a3___Matt.S_CG 7450.JPG
+24.1,85.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls51_mirror_vertical.jpg
+22.7,90.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\5d323cba-03e6-402c-b2fd-19d00f751c31___Matt.S_CG 6742.JPG
+23.4,89.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (755).jpg
+22.4,92.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls13_change_270.jpg
+23.1,88.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3773.jpg
+23.2,89.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\3b746726-44a4-450e-b8e7-1bf33d5d8d4b___Matt.S_CG 7852.JPG
+22.4,91.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\bfb5ed4d-3ab7-4b59-88be-d49f685be1c3___Matt.S_CG 0760.JPG
+22.9,87.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\178dcc84-1b4a-4ca0-babc-3aff38a1d2de___Matt.S_CG 7394.JPG
+23.8,87.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (434).jpg
+24.4,85.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls62_change_180.jpg
+22.9,90.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls21_mirror.jpg
+23.2,87.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\49c6df4f-6528-479b-af7d-613aed9a0026___Keller.St_CG 1890.JPG
+22.5,87.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\2b526b63-b759-4187-ab73-ce49ebb07191___JR_Sept.L.S 2681_flipTB.JPG
+23.0,86.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (345).jpg
+22.8,88.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls36_mirror.jpg
+22.2,87.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\3c553993-c2e9-40f3-b65e-5fa1170b5bb7___Keller.St_CG 1839_180deg.JPG
+22.2,87.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\79f0e1e3-7275-46a5-b4de-fbf5410dae80___JR_Sept.L.S 8482.JPG
+21.7,91.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\2987271e-1fdf-4e7c-9c88-bbb4a50b98d3___JR_Sept.L.S 2525.JPG
+21.6,87.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\1ad425d4-caa9-44da-b99f-a951fda7ec94___Keller.St_CG 1835_180deg.JPG
+20.9,93.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls10_change_90.jpg
+21.8,91.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls29.jpg
+22.6,91.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls30_change_270.jpg
+22.6,89.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3694.jpg
+22.7,90.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\262d9b58-6733-4da4-aa2e-4fa0ca34b3e1___Matt.S_CG 7523.JPG
+22.5,87.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\de4a4bd4-b611-46fd-8190-cff651b56326___Matt.S_CG 6718.JPG
+21.0,96.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\281da113-7611-44bf-9df7-b742fcbce900___JR_Sept.L.S 8568.JPG
+21.0,97.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (953)2.jpg
+21.9,92.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\e301a5e1-ab4c-4a82-b79f-074a8147827f___Matt.S_CG 0839.JPG
+22.7,86.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\4a2f0e3e-8769-4550-a111-7755bc2c74db___Matt.S_CG 7846_180deg.JPG
+23.1,85.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (559).jpg
+21.0,88.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls50_mirror.jpg
+20.8,93.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls51_mirror.jpg
+20.8,93.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\ef9c5aec-0f5e-42d3-8d37-9e1da11ead91___Matt.S_CG 6633.JPG
+22.5,85.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\47b7c127-2842-42ef-8deb-fffeb63eff5b___Matt.S_CG 6159.JPG
+21.5,89.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\e3cf776f-6089-4d1d-bc0d-d6102ac4c7d4___Matt.S_CG 1047.JPG
+22.0,86.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls1_change_270.jpg
+22.7,85.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\2967e646-0a62-4db8-a568-57c1e14c93b5___JR_Sept.L.S 8428.JPG
+22.4,85.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\e74261a8-7e3a-43b5-a4de-16a7946b5d8f___Matt.S_CG 1049.JPG
+21.5,86.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\8f2c9096-f0af-4f68-a0cb-9343ac4eacb2___Matt.S_CG 1228.JPG
+20.8,89.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\b1dfed90-caa1-4fb9-a8ea-627a290403a3___Matt.S_CG 7538.JPG
+21.0,86.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls16.JPG
+20.9,86.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Septoria_Leaf_Spot_of_Tomato2241-450x300_jpg.rf.5097976c47179c775ad8c53e0f70bb3b.jpg
+20.4,85.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3786.jpg
+22.8,90.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\septoria-on-rudbeckia_jpg.rf.9494b809f80a0751c70e1a80992a7ce2.jpg
+22.8,85.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\2ee8fa50-545b-4de2-9b26-6af401c46ede___JR_Sept.L.S 2696_180deg.JPG
+21.5,93.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (423).jpg
+23.1,88.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (429).jpg
+24.3,85.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\6cafca52-cbe9-46cb-aeeb-d588dd8c14af___Matt.S_CG 5982.JPG
+23.9,89.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Septoria-Tomato_jpg.rf.922cb3299bfad2e24b2c00368777d856.jpg
+24.0,88.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\14c04ba8-7151-4797-8e35-e3732dcab1ca___Matt.S_CG 7529.JPG
+21.2,94.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (483).jpg
+22.1,85.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls8_lower.jpg
+23.7,86.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls78_change_270.jpg
+23.6,85.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (942).jpg
+22.7,86.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3873.jpg
+22.2,88.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\092bc641-e271-4bf6-bbe7-451fd3ffc6f1___JR_Sept.L.S 8484.JPG
+21.9,93.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls50.JPG
+21.8,88.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls68_mirror_vertical.jpg
+22.0,90.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\3ddb7094-9ee7-473d-8a01-b48ce8eda506___Matt.S_CG 6719.JPG
+22.6,86.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\15ad0147-6e02-43a7-b215-1be0dc719776___Matt.S_CG 7788.JPG
+21.9,91.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls65.JPG
+22.0,87.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\0a25f893-1b5f-4845-baa1-f68ac03d96ac___Matt.S_CG 7863_flipTB.JPG
+21.8,88.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls27_lower.jpg
+22.3,86.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (446).jpg
+22.2,89.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (521).jpg
+23.3,85.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3743.jpg
+22.6,89.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls41_change_180.jpg
+22.9,85.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\4f35adfa-03b3-4562-b970-19548dda84d1___Matt.S_CG 2457_flipTB.JPG
+23.6,90.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\8e674c81-54a9-4da9-b764-db74f3f377fc___Matt.S_CG 6791.JPG
+24.2,85.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls82_mirror.jpg
+22.8,88.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\2e8ffaaa-1ddd-436d-8672-b3274acf0067___Matt.S_CG 7806_flipTB.JPG
+22.1,92.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\b5cdcab0-075d-4861-9b0d-a98c88d56f58___JR_Sept.L.S 2699.JPG
+22.1,94.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls48_change_270.jpg
+21.5,93.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\7a54f605-84c0-4344-8fbd-69bd6b34eebd___JR_Sept.L.S 8547.JPG
+21.7,91.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\1f55c2e9-67b2-4377-a426-4932a77c3439___Matt.S_CG 7778_flipTB.JPG
+22.2,91.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\e479d798-59a4-4ee7-ac68-730316ec65c1___Keller.St_CG 1776.JPG
+22.3,88.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\0ca7ed02-4540-47df-b01d-194b23226a2d___Matt.S_CG 1733_flipTB.JPG
+22.3,85.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\6bda66a5-562c-4ad9-9e14-7d76dcbd4eef___Keller.St_CG 1880.JPG
+23.1,86.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (385).jpg
+22.9,90.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\f3e6061a-4425-4975-98e1-bfac4dc21a0e___Keller.St_CG 1938.JPG
+23.0,87.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3793.jpg
+23.1,90.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls25_lower.jpg
+23.7,87.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls39.jpg
+22.9,89.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\231f9534-833a-48b3-9da1-d3c4be1747e9___JR_Sept.L.S 2475.JPG
+23.9,85.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\d7026729-ccc2-4818-b8a4-1e13120a4b7a___Keller.St_CG 1879.JPG
+23.6,86.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\45c3dbbf-94eb-4e9e-9f09-b93609f6db7d___JR_Sept.L.S 2543.JPG
+22.6,90.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\2e679a03-6f3e-45f9-a567-7ecc4a631d76___Keller.St_CG 1907_flipTB.JPG
+22.2,91.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls62_change_180.jpg
+23.2,87.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls77_change_270.jpg
+23.0,87.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\eb604c74-9232-4a37-b420-4e4a20842e9c___Matt.S_CG 7574.JPG
+22.9,85.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\4ff7ff02-1fce-4994-bea2-bc46bd60fa4f___JR_Sept.L.S 8501_flipTB.JPG
+23.3,85.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\9f523eb3-820b-4627-b63a-8904c6b1fca0___Matt.S_CG 6704.JPG
+20.9,92.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls84_change_90.jpg
+22.8,85.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\4c245d49-912e-4521-a1ee-53df9f9a6959___Matt.S_CG 6295_180deg.JPG
+22.5,87.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3799.jpg
+23.0,89.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\2aeb1e96-7755-4378-b423-2f2116e56db6___JR_Sept.L.S 2570_180deg.JPG
+23.4,87.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls49_change_90.jpg
+23.5,88.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\a63b93a4-167f-4544-9a84-1e0d05bf35f6___Matt.S_CG 7623.JPG
+23.7,86.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\2987271e-1fdf-4e7c-9c88-bbb4a50b98d3___JR_Sept.L.S 2525.JPG
+23.9,85.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\cf1a0c09-a226-4b39-8b82-bed7a02dd411___Matt.S_CG 7807.JPG
+22.9,89.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\79470ff5-d3dd-4de6-a21d-73def3c0d0fd___JR_Sept.L.S 2708.JPG
+23.9,86.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\5f6a639a-a545-4778-b5e8-c45a62cacfe2___Matt.S_CG 0812.JPG
+23.2,89.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (605).jpg
+23.3,85.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\f214d421-d6a3-4152-9e8f-db81ceb32dd1___Matt.S_CG 7811.JPG
+23.0,88.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\b2fde426-21a4-4478-aa90-2924a65948d9___Matt.S_CG 7698.JPG
+23.4,85.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\a8db14be-ab96-44bb-ae9c-fb3df15fb93e___Matt.S_CG 1063.JPG
+21.8,85.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls74.jpg
+22.4,85.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3858.jpg
+21.2,85.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\d235a8c8-d714-404b-8a07-05706d2dec29___JR_Sept.L.S 8536.JPG
+20.6,93.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\459141fb-4e81-4e44-a66a-0d4a629fa755___Matt.S_CG 2516.JPG
+21.5,90.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3870.jpg
+22.2,88.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\cd3b1a93-f5b4-406f-aa8a-640280edf543___Keller.St_CG 1860.JPG
+20.6,87.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (419).jpg
+20.4,94.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (438).jpg
+21.4,91.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\690452d3-64f5-474c-ba18-1f4e5f330da6___Matt.S_CG 7738.JPG
+21.9,85.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\b8f26cf7-692f-4f77-bbe5-e6ba091ac2cb___Keller.St_CG 1941.JPG
+20.9,87.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\7b36c70b-3b45-4a18-b0fb-6f5da50d04f3___Matt.S_CG 1408.JPG
+21.6,91.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\4c3efc57-6a59-4d52-bd77-1dd4efbfba72___JR_Sept.L.S 2614_flipTB.JPG
+21.7,94.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\38c97982-c658-43c9-8641-bfbe851ef61c___Keller.St_CG 1955.JPG
+21.0,87.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls59.JPG
+21.1,93.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (560).jpg
+21.1,92.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\ac69040d-afbe-4ce7-a69c-49e755822981___Matt.S_CG 7815.JPG
+21.1,87.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\f7c80186-a4f8-4c18-af38-106b81f23bbd___Matt.S_CG 7658.JPG
+20.8,90.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\49680a31-cb91-4694-9609-4aad7079dd77___Matt.S_CG 6155.JPG
+21.7,88.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (357).jpg
+21.3,91.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\tomato-disease-septoria-leaf-spot-d7e1x9_jpg.rf.534ef32552a6365daba13336982025fb.jpg
+22.1,95.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls17_change_90.jpg
+24.5,97.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\fac48215-87c9-4e61-a64e-e6dd868ebc19___Matt.S_CG 7714.JPG
+24.1,98.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls36_mirror_vertical.jpg
+24.6,93.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3753.jpg
+23.8,97.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\2f4afdee-f957-400f-8515-4ea92173d00d___Matt.S_CG 0667_180deg.JPG
+24.9,91.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\212c8703-4c56-4c2b-a1d0-1047a758ca93___Keller.St_CG 1786.JPG
+24.9,96.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (724).jpg
+24.1,96.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\2c368f9a-5098-4a37-b127-477f1978ff78___Matt.S_CG 7499.JPG
+24.9,96.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\4d114914-9a79-4556-8b94-ae1a2df053cc___Matt.S_CG 0717.JPG
+24.6,99.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (362).jpg
+24.3,98.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\d4293713-6637-424f-96ef-c73c483751c7___Matt.S_CG 0723.JPG
+23.7,96.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (936).jpg
+24.5,93.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (494).jpg
+24.3,93.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (990).jpg
+24.1,94.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\728282b2-23d3-4afc-8c95-94bd2fd296e1___JR_Sept.L.S 2583.JPG
+24.9,90.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (863).jpg
+23.8,95.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\cb1f11d6-497a-4b36-a6c0-0ef5e7362e05___Matt.S_CG 6481.JPG
+23.3,97.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3727.jpg
+24.0,93.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\edf85df7-a005-4b99-8ac9-20ebcd094098___Matt.S_CG 6074.JPG
+24.2,94.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\36dd8cd2-dd26-40a2-b25c-f4ce6d94f6be___Keller.St_CG 1845.JPG
+23.4,98.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\3a1f89c1-9f3b-47ec-aafc-7f2ba2558d6d___Matt.S_CG 6856_flipTB.JPG
+23.7,98.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\ed69ca97-f09d-4e70-b232-1697c629a2ab___JR_Sept.L.S 8370.JPG
+24.0,96.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\d086f972-4637-49e5-99cb-57cc43ec0146___Matt.S_CG 7452.JPG
+24.9,91.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\5861c715-d027-48e4-accd-b54ea2f52195___Matt.S_CG 6377.JPG
+24.9,92.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3821.jpg
+24.8,93.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\4e868db4-c951-461f-ab77-562aa6456746___JR_Sept.L.S 8553.JPG
+24.7,90.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (968).jpg
+24.9,86.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\8d8730db-4a12-4324-8218-47a86ea6b44e___Matt.S_CG 7708.JPG
+23.8,93.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\SS_ (706).jpg
+24.2,89.7,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\d1f20bdd-d68d-470a-95af-5a3514a85e8d___Matt.S_CG 0923.JPG
+24.1,97.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\1b_jpg.rf.c967c6d5e30e4555e412750e16814ee4.jpg
+24.8,94.3,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\3af1fd7b-aca5-405e-b4ab-3615eaa6c0df___Matt.S_CG 6915.JPG
+24.8,93.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\f15d2ee7-3710-4f31-bdc7-3215a27a7ae9___Matt.S_CG 1282.JPG
+24.3,93.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\026c9801-8f0c-41b6-adfe-12704eafa73d___Keller.St_CG 1939.JPG
+24.5,94.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\79fb9a6a-4cbd-4168-8ed7-d031fb38d9ba___Keller.St_CG 1896.JPG
+23.9,95.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\6134794031202304-600x272-jpeg_jpg.rf.6e5ac105b9d934d5c1cb19859b0ed43d.jpg
+24.4,96.4,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3675.jpg
+24.9,90.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\3c70a1cb-bb92-4bf1-a742-0622d1616003___Keller.St_CG 1915.JPG
+23.7,96.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\3551440d-d4bd-4da7-8bac-345fec2c55ee___Matt.S_CG 1451.JPG
+23.5,93.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\aug_3679.jpg
+23.3,96.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\Gls57_mirror.jpg
+22.2,96.1,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\3c435f7e-e3cf-4a74-805b-b679ae96e25e___JR_Sept.L.S 2463_flipTB.JPG
+23.9,89.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\a80c4ed9-e82e-462f-9d29-ee1a43bb0be0___JR_Sept.L.S 8415.JPG
+24.3,88.9,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\2b526b63-b759-4187-ab73-ce49ebb07191___JR_Sept.L.S 2681_flipTB.JPG
+24.8,92.5,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\3ddb7094-9ee7-473d-8a01-b48ce8eda506___Matt.S_CG 6719.JPG
+24.2,95.0,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\c0d0864c-19ee-41ca-87a4-3b0d68bff440___Matt.S_CG 2808.JPG
+24.6,90.6,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\87ba14ab-3b74-407b-977e-237258eb6947___Matt.S_CG 6787.JPG
+24.3,93.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\0bcb24a9-bf45-4008-b9df-1c729f977b17___Matt.S_CG 7835_flipTB.JPG
+24.2,87.2,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\3edb3c6a-ff33-4ace-a754-0d807ef8019a___Matt.S_CG 2578.JPG
+22.6,93.8,Septoria Leaf Spot,D:\crops\dataset\tomato\Septoria_leaf_spot\fa477e80-af35-4ef8-b16b-78e0f884f737___Matt.S_CG 2715.JPG

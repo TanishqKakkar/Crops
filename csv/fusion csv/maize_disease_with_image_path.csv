@@ -1,0 +1,156 @@
+temp,humidity,predicted_disease,image_path
+23.0,90.6,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1696.JPG
+22.5,93.6,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2688.JPG
+22.5,91.3,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1726.JPG
+23.0,90.9,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1603.JPG
+22.2,92.3,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1972.JPG
+22.0,91.7,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2352.JPG
+21.1,96.6,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2118.JPG
+22.2,93.2,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1967.JPG
+22.3,91.1,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1751.JPG
+21.8,92.0,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1677.JPG
+22.9,91.7,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2501.JPG
+22.8,92.6,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2438.JPG
+22.2,91.8,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1627.JPG
+22.3,92.6,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2051.JPG
+21.7,92.4,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1647.JPG
+21.9,94.5,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2551.JPG
+19.7,98.0,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2070.JPG
+19.6,93.6,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2007.JPG
+20.7,93.3,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2569.JPG
+21.2,90.5,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2348.JPG
+21.0,90.7,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1588.JPG
+21.4,92.6,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2705.JPG
+21.3,95.3,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2706.JPG
+21.6,92.5,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2769.JPG
+22.3,92.5,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2277.JPG
+22.1,92.8,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2457.JPG
+22.1,94.1,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2006.JPG
+22.2,92.5,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1934.JPG
+22.1,91.0,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1699.JPG
+22.2,91.8,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1619.JPG
+22.7,90.6,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2005.JPG
+22.4,92.8,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1790.JPG
+22.4,91.1,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2012.JPG
+22.9,90.2,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2272.JPG
+21.7,91.6,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2482.JPG
+20.9,93.5,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1723.JPG
+18.8,95.1,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1602.JPG
+19.9,97.8,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1833.JPG
+21.8,91.6,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2156.JPG
+22.6,91.4,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2126.JPG
+22.7,90.2,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1658.JPG
+21.0,96.8,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2453.JPG
+21.0,97.0,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1721.JPG
+21.9,92.6,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2346.JPG
+20.8,93.3,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1720.JPG
+20.8,93.2,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2630.JPG
+22.8,90.7,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2328.JPG
+21.5,93.3,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1930.JPG
+21.2,94.5,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2610.JPG
+21.9,93.7,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2353.JPG
+22.0,90.4,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2381.JPG
+21.9,91.0,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2223.JPG
+22.1,92.0,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2599.JPG
+22.1,94.4,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1602.JPG
+21.5,93.3,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2602.JPG
+21.7,91.4,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2567.JPG
+22.2,91.4,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2517.JPG
+22.6,90.2,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2029.JPG
+22.2,91.1,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1908.JPG
+20.9,92.1,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2211.JPG
+20.6,93.0,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1963.JPG
+21.5,90.3,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2438.JPG
+20.4,94.3,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1571.JPG
+21.4,91.7,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2103.JPG
+21.6,91.0,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2386.JPG
+21.7,94.6,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2620.JPG
+18.4,95.0,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2509.JPG
+19.7,96.8,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2605.JPG
+21.1,93.8,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2643.JPG
+21.1,92.2,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2109.JPG
+20.8,90.6,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2176.JPG
+21.3,91.8,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2219.JPG
+22.1,95.7,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1825.JPG
+18.5,91.1,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2427.JPG
+18.7,92.4,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2211.JPG
+17.9,96.2,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2127.JPG
+19.0,92.0,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1580.JPG
+22.2,96.1,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2040.JPG
+22.6,93.8,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2157.JPG
+17.8,90.2,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 1639.JPG
+17.6,95.5,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2760.JPG
+16.9,97.1,Common Rust,D:\crops\dataset\maize\Common_rust\RS_Rust 2317.JPG
+23.6,91.3,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\1f36d729-d193-4824-a159-a6085f2b7159___RS_NLB 3741.JPG
+23.3,90.7,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\aug_1141.jpg
+23.6,90.4,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\0b5eb8db-3477-488b-9cce-6a7712d895ab___RS_NLB 4232.JPG
+25.9,90.7,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\a3be7c5c-5a5c-4b66-87f9-d74a9d5d409d___RS_NLB 4228 copy.jpg
+26.3,90.8,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\d675c185-9018-4693-9bb3-d5f325cd0c2c___RS_NLB 3551.JPG
+26.9,90.1,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\b044fcc0-9215-42c8-beac-4e67b1e7eee0___RS_NLB 3523.JPG
+26.4,91.4,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\9fa592aa-6724-4d4d-b00c-9f933918ab92___RS_NLB 3785.JPG
+25.9,91.4,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\024fb674-fdcb-4777-a8d6-8a13abb58d8f___RS_NLB 3992.JPG
+26.3,90.1,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\f291f62a-d6f6-4f1e-92af-d6177b154263___RS_NLB 3662.JPG
+25.5,94.4,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\aug_1027.jpg
+26.1,91.4,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\7a424cb3-7a0b-4ec7-9560-1f040db08639___RS_NLB 3963.JPG
+24.5,97.1,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\d5e92223-9fac-4b99-9021-f8867c378fba___RS_NLB 3563.JPG
+25.7,91.0,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\fa30c8e9-b74d-49a2-8611-c9b9098e21c3___RS_NLB 3507.JPG
+25.6,92.5,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\b7cc5fb5-a617-4137-bd5f-2236413ec4bc___RS_NLB 3794.JPG
+25.9,93.6,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\77179782-2d6e-4056-ad95-f8263be229ab___RS_NLB 3674.JPG
+25.3,96.4,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\aug_1001.jpg
+25.4,92.7,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\839ba99e-e297-43b4-9067-69b74ab61ab7___RS_NLB 4063.JPG
+26.3,90.3,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\aug_1033.jpg
+25.1,95.6,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\bce0336e-2867-4e62-8169-145bc711cba4___RS_NLB 3878.JPG
+24.1,98.5,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\788e0b65-df14-4960-b819-dda874f15c03___RS_NLB 3993.JPG
+24.6,93.5,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\0a11f9e8-7357-48c2-8550-daeae59a1e76___RS_NLB 3588.JPG
+25.5,91.7,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\a87efc8b-924b-4b99-820a-c4738bbdc446___RS_NLB 4259.JPG
+23.8,97.8,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\aug_1083.jpg
+24.9,91.6,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\6a43e0eb-5366-4170-9782-12c16a853d04___RS_NLB 3519.JPG
+24.9,96.2,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\aug_1167.jpg
+24.1,96.4,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\053eadf4-34ce-4bdb-8dd8-b75f5d572583___RS_NLB 3788.JPG
+24.9,96.2,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\91646911-a079-4183-bc96-f0ea25e8a847___RS_NLB 3492.JPG
+24.6,99.4,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\aug_1166.jpg
+24.3,98.3,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\a3d50e22-77d3-4bde-a749-0b9f3d7448f7___RS_NLB 0796.JPG
+23.7,96.2,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\59b2c9f9-6a26-4870-aaf9-a613d960efe8___RS_NLB 3875.JPG
+24.5,93.8,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\aug_1072.jpg
+24.3,93.5,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\9634137b-5b5b-49eb-875a-82da77a5bc54___RS_NLB 3697.JPG
+24.1,94.1,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\66045b64-9ade-42cc-b572-2683245d6816___RS_NLB 4074.JPG
+24.9,90.4,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\9617c741-671f-4193-bf4d-de62642d7d85___RS_NLB 4064.JPG
+23.8,95.1,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\acfc653f-44e2-41f6-85cd-3595a6fd7455___RS_NLB 3840.JPG
+23.3,97.7,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\b0a2b2fe-4113-4498-9350-ef9580d7bed6___RS_NLB 3832.JPG
+24.0,93.3,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\4ef8e489-cafb-4d59-9fc9-00f8087f0cac___RS_NLB 4172.JPG
+24.2,94.5,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\931b2ec6-2ed7-4a70-8309-7bce6a01d0fd___RS_NLB 3757.JPG
+23.4,98.2,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\6fd2d660-7294-4a2c-8626-27228b1c8b70___RS_NLB 3627.JPG
+23.7,98.1,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\608bf7ea-b20e-446d-8bbd-862d91ee8e16___RS_NLB 3675.JPG
+24.0,96.0,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\f553d7cf-9c9f-46bf-b99a-8e3505afd96d___RS_NLB 3873.JPG
+25.0,93.5,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\aug_1022.jpg
+25.9,90.2,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\a7a738f0-39e4-4541-828d-92c5dd42ee86___RS_NLB 3544.JPG
+25.3,91.3,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\94c9fcc4-a643-4a7e-b56e-5a952bb7c791___RS_NLB 3999.JPG
+25.3,90.9,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\b2f77b0d-b331-4fa6-81b1-fa5d56674a64___RS_NLB 4076.JPG
+24.9,91.4,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\59bc212e-6b39-4712-b9c9-6edc3fa3e05f___RS_NLB 3604 copy 2.jpg
+25.6,91.0,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\f24a6c41-64fd-42c1-a0ea-501441fcbf64___RS_NLB 3805 copy 2.jpg
+24.9,92.8,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\c94c8b78-b8e1-45cf-bac8-80d8a0c6b64d___RS_NLB 0781.JPG
+24.8,93.3,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\29d09796-3790-450a-97cc-ba6db0cf368f___RS_NLB 3487.JPG
+24.7,90.4,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\70cfac48-3bf0-4134-984a-3e9a19e2cdf0___RS_NLB 4089.JPG
+25.9,90.6,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\aug_1179.jpg
+25.4,91.0,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\b669564b-720d-462c-bd15-225764698119___RS_NLB 4277.JPG
+23.8,93.1,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\0b112f62-54d5-4395-9f7c-d7ef05290be4___RS_NLB 4196.JPG
+25.7,90.1,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\aug_1116.jpg
+26.0,90.9,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\aug_1056.jpg
+24.1,97.3,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\94c9fcc4-a643-4a7e-b56e-5a952bb7c791___RS_NLB 3999.JPG
+25.8,92.9,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\d281dba8-6b57-4bec-9e86-4b5638f4d4dc___RS_NLB 3860.JPG
+24.8,94.3,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\9dffdf42-2221-4cab-8228-35b011956849___RS_NLB 3567.JPG
+24.8,93.1,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\fd9c7938-4f3f-448d-851b-042e287515f0___RS_NLB 3990.JPG
+24.3,93.9,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\142cd767-835c-4465-9ac9-4c569c5ea542___RS_NLB 3822.JPG
+24.5,94.0,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\6f484030-13f8-4607-a036-ea329d1ef931___RS_NLB 4144.JPG
+23.9,95.4,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\2a4b3fe0-6858-459b-b620-cd01d0cd6333___RS_NLB 4273 copy 2.jpg
+25.5,92.6,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\08d875b9-7d0d-48af-9b27-e1fe9d1de96c___RS_NLB 3957.JPG
+25.5,92.5,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\3de521e5-5424-4e7e-a8e3-725ad64d9a8f___RS_NLB 3828.JPG
+24.4,96.4,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\aug_1018.jpg
+24.9,90.2,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\07d88aa9-1c25-46c9-a48a-85db9d970905___RS_NLB 3976.JPG
+23.7,96.5,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\3ddba6ba-0467-45e1-b3d7-24b97ee2c767___RS_NLB 3720.JPG
+23.5,93.6,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\aug_1160.jpg
+23.3,96.0,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\2b13f4ca-099f-46c1-8c5f-381d025127cb___RS_NLB 4240.JPG
+24.8,92.5,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\6f24eec3-fd4e-478f-9688-717515242cea___RS_NLB 4278.JPG
+24.2,95.0,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\47f24ceb-34e8-4c13-acac-e48549bc7cfa___RS_NLB 3932 copy 2.jpg
+24.6,90.6,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\c3c358d5-4ca3-4dcb-9725-4d6f022c41e1___RS_NLB 3522.JPG
+24.3,93.2,Northern Leaf Blight,D:\crops\dataset\maize\Northern_Leaf_Blight\40c2375e-92e1-4259-b268-d2433137e456___RS_NLB 4009.JPG

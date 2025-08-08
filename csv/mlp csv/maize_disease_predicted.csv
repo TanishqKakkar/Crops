@@ -1,0 +1,156 @@
+temp,humidity,predicted_disease
+23,90.6,Common Rust
+22.5,93.6,Common Rust
+22.5,91.3,Common Rust
+23,90.9,Common Rust
+22.2,92.3,Common Rust
+22,91.7,Common Rust
+21.1,96.6,Common Rust
+22.2,93.2,Common Rust
+22.3,91.1,Common Rust
+21.8,92,Common Rust
+22.9,91.7,Common Rust
+22.8,92.6,Common Rust
+22.2,91.8,Common Rust
+22.3,92.6,Common Rust
+21.7,92.4,Common Rust
+21.9,94.5,Common Rust
+19.7,98,Common Rust
+19.6,93.6,Common Rust
+20.7,93.3,Common Rust
+21.2,90.5,Common Rust
+21,90.7,Common Rust
+21.4,92.6,Common Rust
+21.3,95.3,Common Rust
+21.6,92.5,Common Rust
+22.3,92.5,Common Rust
+22.1,92.8,Common Rust
+22.1,94.1,Common Rust
+22.2,92.5,Common Rust
+22.1,91,Common Rust
+22.2,91.8,Common Rust
+22.7,90.6,Common Rust
+22.4,92.8,Common Rust
+22.4,91.1,Common Rust
+22.9,90.2,Common Rust
+21.7,91.6,Common Rust
+20.9,93.5,Common Rust
+18.8,95.1,Common Rust
+19.9,97.8,Common Rust
+21.8,91.6,Common Rust
+22.6,91.4,Common Rust
+22.7,90.2,Common Rust
+21,96.8,Common Rust
+21,97,Common Rust
+21.9,92.6,Common Rust
+20.8,93.3,Common Rust
+20.8,93.2,Common Rust
+22.8,90.7,Common Rust
+21.5,93.3,Common Rust
+21.2,94.5,Common Rust
+21.9,93.7,Common Rust
+22,90.4,Common Rust
+21.9,91,Common Rust
+22.1,92,Common Rust
+22.1,94.4,Common Rust
+21.5,93.3,Common Rust
+21.7,91.4,Common Rust
+22.2,91.4,Common Rust
+22.6,90.2,Common Rust
+22.2,91.1,Common Rust
+20.9,92.1,Common Rust
+20.6,93,Common Rust
+21.5,90.3,Common Rust
+20.4,94.3,Common Rust
+21.4,91.7,Common Rust
+21.6,91,Common Rust
+21.7,94.6,Common Rust
+18.4,95,Common Rust
+19.7,96.8,Common Rust
+21.1,93.8,Common Rust
+21.1,92.2,Common Rust
+20.8,90.6,Common Rust
+21.3,91.8,Common Rust
+22.1,95.7,Common Rust
+18.5,91.1,Common Rust
+18.7,92.4,Common Rust
+17.9,96.2,Common Rust
+19,92,Common Rust
+22.2,96.1,Common Rust
+22.6,93.8,Common Rust
+17.8,90.2,Common Rust
+17.6,95.5,Common Rust
+16.9,97.1,Common Rust
+23.6,91.3,Northen Leaf Blight
+23.3,90.7,Northen Leaf Blight
+23.6,90.4,Northen Leaf Blight
+25.9,90.7,Northen Leaf Blight
+26.3,90.8,Northen Leaf Blight
+26.9,90.1,Northen Leaf Blight
+26.4,91.4,Northen Leaf Blight
+25.9,91.4,Northen Leaf Blight
+26.3,90.1,Northen Leaf Blight
+25.5,94.4,Northen Leaf Blight
+26.1,91.4,Northen Leaf Blight
+24.5,97.1,Northen Leaf Blight
+25.7,91,Northen Leaf Blight
+25.6,92.5,Northen Leaf Blight
+25.9,93.6,Northen Leaf Blight
+25.3,96.4,Northen Leaf Blight
+25.4,92.7,Northen Leaf Blight
+26.3,90.3,Northen Leaf Blight
+25.1,95.6,Northen Leaf Blight
+24.1,98.5,Northen Leaf Blight
+24.6,93.5,Northen Leaf Blight
+25.5,91.7,Northen Leaf Blight
+23.8,97.8,Northen Leaf Blight
+24.9,91.6,Northen Leaf Blight
+24.9,96.2,Northen Leaf Blight
+24.1,96.4,Northen Leaf Blight
+24.9,96.2,Northen Leaf Blight
+24.6,99.4,Northen Leaf Blight
+24.3,98.3,Northen Leaf Blight
+23.7,96.2,Northen Leaf Blight
+24.5,93.8,Northen Leaf Blight
+24.3,93.5,Northen Leaf Blight
+24.1,94.1,Northen Leaf Blight
+24.9,90.4,Northen Leaf Blight
+23.8,95.1,Northen Leaf Blight
+23.3,97.7,Northen Leaf Blight
+24,93.3,Northen Leaf Blight
+24.2,94.5,Northen Leaf Blight
+23.4,98.2,Northen Leaf Blight
+23.7,98.1,Northen Leaf Blight
+24,96,Northen Leaf Blight
+25,93.5,Northen Leaf Blight
+25.9,90.2,Northen Leaf Blight
+25.3,91.3,Northen Leaf Blight
+25.3,90.9,Northen Leaf Blight
+24.9,91.4,Northen Leaf Blight
+25.6,91,Northen Leaf Blight
+24.9,92.8,Northen Leaf Blight
+24.8,93.3,Northen Leaf Blight
+24.7,90.4,Northen Leaf Blight
+25.9,90.6,Northen Leaf Blight
+25.4,91,Northen Leaf Blight
+23.8,93.1,Northen Leaf Blight
+25.7,90.1,Northen Leaf Blight
+26,90.9,Northen Leaf Blight
+24.1,97.3,Northen Leaf Blight
+25.8,92.9,Northen Leaf Blight
+24.8,94.3,Northen Leaf Blight
+24.8,93.1,Northen Leaf Blight
+24.3,93.9,Northen Leaf Blight
+24.5,94,Northen Leaf Blight
+23.9,95.4,Northen Leaf Blight
+25.5,92.6,Northen Leaf Blight
+25.5,92.5,Northen Leaf Blight
+24.4,96.4,Northen Leaf Blight
+24.9,90.2,Northen Leaf Blight
+23.7,96.5,Northen Leaf Blight
+23.5,93.6,Northen Leaf Blight
+23.3,96,Northen Leaf Blight
+24.8,92.5,Northen Leaf Blight
+24.2,95,Northen Leaf Blight
+24.6,90.6,Northen Leaf Blight
+24.3,93.2,Northen Leaf Blight
